@@ -1,0 +1,202 @@
+ * {box-sizing: border-box;}
+
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: Arial, Helvetica, sans-serif;
+      background-color: rgb(243, 238, 211);
+    }
+
+    .logo {
+      font-weight: 550;
+      font-size: 25px;
+      font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+      cursor: pointer;
+    }
+
+    .ri-close-line {
+      display: none;
+    }
+
+    .myHeader {
+      display: flex;
+      justify-content: space-around;
+      align-items: center;
+      height: 70px;
+      box-shadow: 0 0 10px rgb(197, 197, 197);
+      background-color: rgb(243, 238, 211);
+      position: sticky;
+      top: 0;
+      z-index: 1001;
+    }
+
+    .nav-container {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      gap: 4rem;
+      z-index: 1001;
+    }
+
+    .drop-cont {
+      display: none;
+      position: absolute;
+      margin-top: 16px;
+      left: 0;
+      padding-top: 20px;
+      height: 100dvh;
+      list-style: none;
+      box-shadow: 0 0 5px lightgrey;
+      width: 200px;
+      background-color: white;
+      background-color: rgb(243, 238, 211);
+    }
+
+
+    .drop-cont li {
+      padding: 5px;
+      padding-left: 20px;
+      transition: 0.3s;
+    }
+
+    .drop-cont li a {
+      color: black;
+      text-decoration: none;
+      padding: 10px;
+    }
+
+    .drop-cont li:hover {
+      background-color: lavender;
+      display: block;
+      padding-left: 25px;
+    }
+
+    .nav-link > button {
+      display: flex;
+      background-color: inherit;
+      border: none;
+      padding: 10px;
+      cursor: pointer;
+      font-size: 16px;
+      font-weight: 550;
+    }
+
+    .nav-link.open .drop-cont {
+      display: block;
+    }
+
+    .arrow i {
+      transition: transform 0.3s ease;
+      display: inline-block;
+    }
+
+    .nav-link.open .arrow i {
+      transform: rotate(180deg);
+    }
+
+
+    .ri-menu-line {
+      display: none;
+    }
+
+
+    /* Mobile menu start */
+
+    @media (width <= 800px) {
+      
+      body {
+        background-color: rgb(243, 244, 232)
+      }
+
+      .small-menu {
+        display: flex;
+        justify-content: space-between;
+        padding: 7px;
+        align-items: center;
+      }
+
+      .ri-menu-line {
+        display: block;
+        font-size: 20px;
+        font-weight: 700;
+        cursor: pointer;
+      }
+
+      .ri-close-line {
+        display: block;
+        font-size: 30px;
+        font-weight: 700;
+        position: absolute;
+        box-sizing: border-box;
+        /* margin-right: -20px; */
+        margin-left: 200px;
+        /* margin-top: -16px; */
+        top: 10px;
+      }
+
+  .myHeader {
+    display: grid;
+    grid-template-columns: 1fr;
+    justify-content: center;
+    background-color: rgb(243, 244, 232);
+    width: 100%;
+    height: 40px;
+    box-shadow: none;
+}
+
+  .nav-container {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 0;
+    justify-items: left;
+    background-color: rgb(243, 244, 232);
+    box-shadow: 0 0 7px lightgray;
+    padding:  6px 0;
+    width: 250px;
+    left: -250px;
+    position: absolute;
+    top: 0;
+    /* margin-top: -47px; */
+    /* height: 100dvh;  */
+}
+
+
+.close {
+  /* display: none; */
+  height: 100dvh;
+}
+
+.logo {
+  display: none;
+}
+
+/* .headerclose {
+  display: none;
+} */
+/* .nav-link {
+
+  width: 250px;
+} */
+
+  .drop-cont {
+    justify-items: left;
+    box-sizing: border-box;
+    position: absolute;
+    background-color: rgb(243, 244, 232);
+}
+
+  .drop-cont li {
+   justify-items: center;
+   text-align: left;
+   padding-left: 15px;
+
+}
+
+  .drop-cont li a {
+    padding: 0;
+    display: block;
+    /* width: 100%; */
+  }
+}
+
+ /* Mobile menu end */

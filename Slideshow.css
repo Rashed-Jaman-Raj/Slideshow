@@ -67,7 +67,7 @@ a {
   cursor: pointer;
   height: 15px;
   width: 15px;
-  margin: 0 2px;
+  margin: -20px 2px 20px;
   background-color: #bbb;
   border-radius: 50%;
   transition: 0.6s ease;
