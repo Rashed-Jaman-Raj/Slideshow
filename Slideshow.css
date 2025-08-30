@@ -90,6 +90,60 @@ a {
   to {opacity: 1;}
 }
 
+
+/* Card Section */
+    .cards {
+      display: grid;
+      gap: 20px;
+      grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+      align-items: stretch;
+      margin: 2rem;
+      /* position: relative; */
+      /* max-width: 250px; */
+      /* overflow: hidden; */
+    }
+
+    .card {
+      position: relative;
+      overflow: hidden;
+      border-radius: 5px;
+      box-shadow: 0 0 10px lightgrey;
+    }
+
+    .card img {
+      display: block;
+      width: 100%;
+      aspect-ratio: 1/1;
+      /* overflow: hidden; */
+     }
+
+    .prod-text {
+      position: absolute;
+      bottom: 0; 
+      background: rgb(0, 0, 0);
+      background: rgba(0, 0, 0, 0.5); /* Black see-through */
+      color: white; 
+      width: 100%;
+      /* transition: t 0.9s ease ease-in-out; */
+      transition: transform 0.5s ease;
+      transform: translateY(100%);
+      color: white;
+      font-size: 16px;
+      /* padding: 20px; */
+      /* opacity: 0;       */
+      text-align: center;
+      /* margin: 0;
+      padding: 0; */
+      line-height: 4px;
+      overflow: hidden;
+    } 
+
+    .card:hover .prod-text {
+      /* opacity: 1; */
+      bottom: 0;
+      transform: translateY(0);
+    }
+
 /* On smaller screens, decrease text size */
 @media only screen and (max-width: 800px) {
   .prev, .next,.text {font-size: 11px}
