@@ -1,2 +1,19 @@
 Women top 15 product added in json file (ID: 1 - 15)
+Women top 60 pic
+
+Women Kaftan 9 product added in json file (ID: 16 - 24)
+Women Kaftan 36pic
+
+men Polo Shirt 8 product added in json file (ID: 25 - 32)
+men Polo Shirt 32pic
+
+men T-Shirt 7 product added in json file (ID: 33 - 39)
+men T-Shirt 28pic
+
+men Panjabi 6 product added in json file (ID: 40 - 45)
+men Panjabi 24pic
+
+men Shoes 12 product added in json file (ID: 46 -)
+men Panjabi 24pic
+
 
