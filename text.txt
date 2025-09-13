@@ -2,18 +2,113 @@ Women top 15 product added in json file (ID: 1 - 15)
 Women top 60 pic
 
 Women Kaftan 9 product added in json file (ID: 16 - 24)
-Women Kaftan 36pic
+Women Kaftan 36 pic
 
 men Polo Shirt 8 product added in json file (ID: 25 - 32)
-men Polo Shirt 32pic
+men Polo Shirt 32 pic
 
 men T-Shirt 7 product added in json file (ID: 33 - 39)
-men T-Shirt 28pic
+men T-Shirt 28 pic
 
 men Panjabi 6 product added in json file (ID: 40 - 45)
-men Panjabi 24pic
+men Panjabi 24 pic
 
-men Shoes 12 product added in json file (ID: 46 -)
-men Panjabi 24pic
+men Shoes 12 product added in json file (ID: 46 - 57)
+men Panjabi 48 pic
+
+women Gown 6 product added in json file (ID: 58 - 63)
+women Gown 24 pic
+
+women Shari 10 product added in json file (ID: 64 - 73)
+women Shari 40 pic
+
+Men Chinos Pants 16 product added in json file (ID: 74 - 77)
+Men Chinos Pants 16 pic
+
+Men Suit 7 product added in json file (ID: 78 - 84)
+Men Suit 28 pic
+
+Men Waistcoat 14 product added in json file (ID: 99 - 112)
+Men Waistcoat 56 pic
+
+Men Short 4 product added in json file (ID: 113 - 116)
+Men Short 16 pic
+
+Men Jeans 12 product added in json file (ID: 117 - 128)
+Men Jeans 48 pic
+
+Kids Bath Toys 11 product added in json file (ID: 129 - 139)
+Kids Bath Toys 44 pic
+
+Kids Shoes 2 product added in json file (ID: 140 - 141)
+Kids Shoes 8 pic
+
+Kids Dungarees 7 product added in json file (ID: 142 - 148)
+Kids Dungarees 28 pic
+
+Kids Jeans 5 product added in json file (ID: 149 - 153)
+Kids Jeans 20 pic
+
+Kids Raincoat 6 product added in json file (ID: 154 - 159)
+Kids Raincoat 24 pic
+
+Kids Shirt 5 product added in json file (ID: 160 - 164)
+Kids Shirt 20 pic
+
+Kids Girls Jeans 5 product added in json file (ID: 165 - 169)
+Kids Girls Jeans 20 pic
+
+Kids Girls Pants 5 product added in json file (ID: 170 - 174)
+Kids Girls Pants 20 pic
+
+Kids Gift Pack 2 product added in json file (ID: 175 - 176)
+Kids Gift Pack 8 pic
+
+Kids Girls Frock 14 product added in json file (ID: 177 - 190)
+Kids Girls Frock 56 pic
+
+Kids Girls T-Shirt 5 product added in json file (ID: 191 - 195)
+Kids Girls T-Shirt 20 pic
+
+Water Bottle women 12 product added in json file (ID: 196 - 207)
+Water Bottle women 48 pic
+
+Women Bangals 7 product added in json file (ID: 208 - 214)
+Women Bangals 28 pic
+
+Women Hand Bag 26 product added in json file (ID: 215 - 240)
+Women Hand Bag 104 pic
+
+Women Finger Ring 9 product added in json file (ID: 241 - 249)
+Women Finger Ring 36 pic
+
+Women Jump Suit 2 product added in json file (ID: 250 - 251)
+Women Jump Suit 8 pic
+
+Women Long Tunic 19 product added in json file (ID: 252 - 270)
+Women Long Tunic 76 pic
+
+Women Ear Ring 8 product added in json file (ID: 271 - 278)
+Women Ear Ring 32 pic
+
+Women Tunic With Shrug 34 product added in json file (ID: 279 - 312)
+Women Tunic With Shrug 136 pic
+
+Women Shoes 11 product added in json file (ID: 312 - 322)
+Women Shoes 44 pic
+
+Women Top Buttom Set 19 product added in json file (ID: 323 - 341)
+Women Top Buttom Set 76 pic
+
+Women Socks 4 product added in json file (ID: 342 - 345)
+Women Socks 16 pic
+
+Women Koti 5 product added in json file (ID: 346 - 350)
+Women Koti 20 pic
+
+
+
+
+
 
 

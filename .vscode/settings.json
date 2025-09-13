@@ -1,4 +1,5 @@
 {
    "streamline-icons.downloadPath": ".",
-   "editor.fontSize": 20
+   "editor.fontSize": 20,
+   "codesnap.containerPadding": "1em"
 }

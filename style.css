@@ -16,7 +16,8 @@
 .item {
   /* position: relative; */
   border-radius: 6px;
-  box-shadow: 0 0 10px lightgrey;
+  /* box-shadow: 0 0 10px lightgrey; */
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.2); 
 }
  .item img {
   width: 100%;
@@ -24,6 +25,8 @@
   aspect-ratio: 2/2.3;
   border-top-left-radius: 6px;
   border-top-right-radius: 6px;
+  /* clip-path: circle(40% at center); */
+  /* box-shadow: 0 6px 16px rgba(0, 0, 0, 0.2); */
  }
 
  .item h3 {
