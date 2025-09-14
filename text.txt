@@ -22,11 +22,17 @@ women Gown 24 pic
 women Shari 10 product added in json file (ID: 64 - 73)
 women Shari 40 pic
 
-Men Chinos Pants 16 product added in json file (ID: 74 - 77)
+Men Chinos Pants 4 product added in json file (ID: 74 - 77)
 Men Chinos Pants 16 pic
 
 Men Suit 7 product added in json file (ID: 78 - 84)
 Men Suit 28 pic
+
+men kabli Panjabi 7 product added in json file (ID: 85 - 91)
+men kabli Panjabi 28 pic
+
+men pajama 7 product added in json file (ID: 92 - 98)
+men pajama 28 pic
 
 Men Waistcoat 14 product added in json file (ID: 99 - 112)
 Men Waistcoat 56 pic
