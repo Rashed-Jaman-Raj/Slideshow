@@ -1,0 +1,46 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  display: grid;
+  grid-template-columns: 1fr 3.5fr ;
+
+}
+
+
+.sideBar {
+      position: sticky;
+      top: 0;     
+      padding-top: 25px;
+      height: 100dvh;
+      list-style: none;
+      box-shadow: 0 0 5px lightgrey;
+      width: 260px;
+      background-color: white;
+      /* border-right: .1px solid lightblue; */
+      /* height: 100%; */
+    }
+
+    .sideBar li {
+      padding: 5px;
+      padding-left: 25px;
+      transition: 0.3s;
+    }
+
+    .sideBar li a {
+      color: black;
+      text-decoration: none;
+      padding: 10px;
+    }
+
+    .sideBar li:hover {
+      background-color: lightsteelblue;
+      display: block;
+      padding-left: 25px;
+    }
+
+
+
+

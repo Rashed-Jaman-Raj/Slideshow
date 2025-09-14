@@ -228,10 +228,6 @@ document.addEventListener('DOMContentLoaded', () => {
       }
     });
 
-    // if (filtered.length === 0) {
-    //   container.innerHTML = `<h3>No products found for "${type}"</h3>`;
-    //   return;
-    // }
 
     if (filtered.length === 0) {
   container.innerHTML = `
