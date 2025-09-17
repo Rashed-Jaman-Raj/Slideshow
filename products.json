@@ -1,4 +1,79 @@
 [
+
+  {
+    "id": 8,
+    "name": "Top",
+    "price": 200,
+    "category": "women",
+    "type": "Top",
+    "image": [
+      "img/women/topKaftanShari/womenTop (30).jpg",
+      "img/women/topKaftanShari/womenTop (29).jpg",
+      "img/women/topKaftanShari/womenTop (31).jpg",
+      "img/women/topKaftanShari/womenTop (32).jpg"
+    ],
+    "description": "our brand has expanded to several boutique locations throughout the city, consistently delivering luxury clothing that aligns with the modern woman's silhouette. Our commitment to quality and craftsmanship has never wavered. The inception of Iris was inspired by a gap in the Canadian fashion market, particularly for women seeking clothing that enhances their natural beauty while offering both style and comfort."
+  },
+
+  {
+    "id": 9,
+    "name": "Top",
+    "price": 200,
+    "category": "women",
+    "type": "Top",
+    "image": [
+      "img/women/topKaftanShari/womenTop (33).jpg",
+      "img/women/topKaftanShari/womenTop (34).jpg",
+      "img/women/topKaftanShari/womenTop (35).jpg",
+      "img/women/topKaftanShari/womenTop (36).jpg"
+    ],
+    "description": "our brand has expanded to several boutique locations throughout the city, consistently delivering luxury clothing that aligns with the modern woman's silhouette. Our commitment to quality and craftsmanship has never wavered. The inception of Iris was inspired by a gap in the Canadian fashion market, particularly for women seeking clothing that enhances their natural beauty while offering both style and comfort."
+  },
+
+  {
+    "id": 10,
+    "name": "Top",
+    "price": 200,
+    "category": "women",
+    "type": "Top",
+    "image": [
+      "img/women/topKaftanShari/womenTop (37).jpg",
+      "img/women/topKaftanShari/womenTop (38).jpg",
+      "img/women/topKaftanShari/womenTop (39).jpg",
+      "img/women/topKaftanShari/womenTop (40).jpg"
+    ],
+    "description": "our brand has expanded to several boutique locations throughout the city, consistently delivering luxury clothing that aligns with the modern woman's silhouette. Our commitment to quality and craftsmanship has never wavered. The inception of Iris was inspired by a gap in the Canadian fashion market, particularly for women seeking clothing that enhances their natural beauty while offering both style and comfort."
+  },
+
+  {
+    "id": 11,
+    "name": "Top",
+    "price": 200,
+    "category": "women",
+    "type": "Top",
+    "image": [
+      "img/women/topKaftanShari/womenTop (41).jpg",
+      "img/women/topKaftanShari/womenTop (42).jpg",
+      "img/women/topKaftanShari/womenTop (43).jpg",
+      "img/women/topKaftanShari/womenTop (44).jpg"
+    ],
+    "description": "our brand has expanded to several boutique locations throughout the city, consistently delivering luxury clothing that aligns with the modern woman's silhouette. Our commitment to quality and craftsmanship has never wavered. The inception of Iris was inspired by a gap in the Canadian fashion market, particularly for women seeking clothing that enhances their natural beauty while offering both style and comfort."
+  },
+  {
+    "id": 12,
+    "name": "Top",
+    "price": 200,
+    "category": "women",
+    "type": "Top",
+    "image": [
+      "img/women/topKaftanShari/womenTop (45).jpg",
+      "img/women/topKaftanShari/womenTop (46).jpg",
+      "img/women/topKaftanShari/womenTop (47).jpg",
+      "img/women/topKaftanShari/womenTop (48).jpg"
+    ],
+    "description": "our brand has expanded to several boutique locations throughout the city, consistently delivering luxury clothing that aligns with the modern woman's silhouette. Our commitment to quality and craftsmanship has never wavered. The inception of Iris was inspired by a gap in the Canadian fashion market, particularly for women seeking clothing that enhances their natural beauty while offering both style and comfort."
+  }, 
+  
   {
     "id": 1,
     "name": "Top",
@@ -103,80 +178,6 @@
     ],
     "description": "our brand has expanded to several boutique locations throughout the city, consistently delivering luxury clothing that aligns with the modern woman's silhouette. Our commitment to quality and craftsmanship has never wavered. The inception of Iris was inspired by a gap in the Canadian fashion market, particularly for women seeking clothing that enhances their natural beauty while offering both style and comfort."
   },
-
-  {
-    "id": 8,
-    "name": "Top",
-    "price": 200,
-    "category": "women",
-    "type": "Top",
-    "image": [
-      "img/women/topKaftanShari/womenTop (30).jpg",
-      "img/women/topKaftanShari/womenTop (29).jpg",
-      "img/women/topKaftanShari/womenTop (31).jpg",
-      "img/women/topKaftanShari/womenTop (32).jpg"
-    ],
-    "description": "our brand has expanded to several boutique locations throughout the city, consistently delivering luxury clothing that aligns with the modern woman's silhouette. Our commitment to quality and craftsmanship has never wavered. The inception of Iris was inspired by a gap in the Canadian fashion market, particularly for women seeking clothing that enhances their natural beauty while offering both style and comfort."
-  },
-
-  {
-    "id": 9,
-    "name": "Top",
-    "price": 200,
-    "category": "women",
-    "type": "Top",
-    "image": [
-      "img/women/topKaftanShari/womenTop (33).jpg",
-      "img/women/topKaftanShari/womenTop (34).jpg",
-      "img/women/topKaftanShari/womenTop (35).jpg",
-      "img/women/topKaftanShari/womenTop (36).jpg"
-    ],
-    "description": "our brand has expanded to several boutique locations throughout the city, consistently delivering luxury clothing that aligns with the modern woman's silhouette. Our commitment to quality and craftsmanship has never wavered. The inception of Iris was inspired by a gap in the Canadian fashion market, particularly for women seeking clothing that enhances their natural beauty while offering both style and comfort."
-  },
-
-  {
-    "id": 10,
-    "name": "Top",
-    "price": 200,
-    "category": "women",
-    "type": "Top",
-    "image": [
-      "img/women/topKaftanShari/womenTop (37).jpg",
-      "img/women/topKaftanShari/womenTop (38).jpg",
-      "img/women/topKaftanShari/womenTop (39).jpg",
-      "img/women/topKaftanShari/womenTop (40).jpg"
-    ],
-    "description": "our brand has expanded to several boutique locations throughout the city, consistently delivering luxury clothing that aligns with the modern woman's silhouette. Our commitment to quality and craftsmanship has never wavered. The inception of Iris was inspired by a gap in the Canadian fashion market, particularly for women seeking clothing that enhances their natural beauty while offering both style and comfort."
-  },
-
-  {
-    "id": 11,
-    "name": "Top",
-    "price": 200,
-    "category": "women",
-    "type": "Top",
-    "image": [
-      "img/women/topKaftanShari/womenTop (41).jpg",
-      "img/women/topKaftanShari/womenTop (42).jpg",
-      "img/women/topKaftanShari/womenTop (43).jpg",
-      "img/women/topKaftanShari/womenTop (44).jpg"
-    ],
-    "description": "our brand has expanded to several boutique locations throughout the city, consistently delivering luxury clothing that aligns with the modern woman's silhouette. Our commitment to quality and craftsmanship has never wavered. The inception of Iris was inspired by a gap in the Canadian fashion market, particularly for women seeking clothing that enhances their natural beauty while offering both style and comfort."
-  },
-  {
-    "id": 12,
-    "name": "Top",
-    "price": 200,
-    "category": "women",
-    "type": "Top",
-    "image": [
-      "img/women/topKaftanShari/womenTop (45).jpg",
-      "img/women/topKaftanShari/womenTop (46).jpg",
-      "img/women/topKaftanShari/womenTop (47).jpg",
-      "img/women/topKaftanShari/womenTop (48).jpg"
-    ],
-    "description": "our brand has expanded to several boutique locations throughout the city, consistently delivering luxury clothing that aligns with the modern woman's silhouette. Our commitment to quality and craftsmanship has never wavered. The inception of Iris was inspired by a gap in the Canadian fashion market, particularly for women seeking clothing that enhances their natural beauty while offering both style and comfort."
-  }, 
 
   {
     "id": 13,

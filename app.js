@@ -1,24 +1,3 @@
-// document.querySelectorAll('.nav-link').forEach(button => {
-//   button.addEventListener('click', (e) => {
-//     e.preventDefault(); // Prevent default if button is within a form
-//     const dropdown = button.closest('.nav-link');
-//     dropdown.classList.toggle('open');
-
-    //close other dropdown
-    // document.querySelectorAll('.nav-link').forEach(el => {
-    //   if (el !== dropdown) el.classList.remove('open');
-    // });
-//   });
-// });
-
-
-// Optional: Close dropdowns when clicking outside
-
-// document.addEventListener('click', (e) => {
-//   if (!e.target.closest('.nav-link')) {
-//     document.querySelectorAll('.nav-link').forEach(drop => drop.classList.remove('open'));
-//   };
-// });
 
 
 // Mobile menu start ========
@@ -50,9 +29,11 @@ fetch('products.json')
         item.innerHTML = `
           <img src="${mainImage}" alt="${product.name}">
           <h3>${product.name}</h3>
-          <div class="price">Price:  $${product.price}</div>
-          <button class="AddCart">Add to Cart <i class="ri-shopping-cart-2-fill"></i></button>
-          <i class="ri-heart-line" style = "font-size: 18px; margin-left: 5px;"></i>
+          <div class="cardLayout">
+            <i class="ri-shopping-bag-2-line AddCart"></i>
+            <div class="price">Price:  $${product.price}</div>
+            <i class="ri-heart-line" style = "font-size: 18px; margin-left: 5px;"></i>
+          </div>
         ` ;
 
         productsList.appendChild(item);

@@ -82,7 +82,12 @@
       padding: 10px;
       cursor: pointer;
       font-size: 16px;
-      font-weight: 550;
+      font-weight: 500;
+      color: darkcyan;
+    }
+
+    .nav-link > button:hover {
+      color: rgb(2, 84, 84);
     }
 /* 
     .nav-link.open .drop-cont {
@@ -99,19 +104,20 @@
     }
 
 
-    .ri-menu-line {
+ .ri-menu-line {
       display: none;
     }
 
     #cartIcon {
       font-size: 20px;
       cursor: pointer;
+      color: darkcyan;
     }
 
 
     /* Mobile menu start */
 
-    @media (width <= 800px) {
+    @media (width <= 768px) {
       
 
       .small-menu {
