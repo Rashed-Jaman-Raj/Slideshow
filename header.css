@@ -108,11 +108,150 @@
       display: none;
     }
 
+
     #cartIcon {
-      font-size: 20px;
-      cursor: pointer;
-      color: darkcyan;
-    }
+  position: relative;
+  cursor: pointer;
+  display: inline-block;
+}
+
+#cartIcon i {
+  font-size: 24px;
+  color: #333;
+}
+
+#cartCount {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  top: -6px;
+  right: -8px;
+  background-color: red;
+  color: white;
+  font-size: 11px;
+  /* padding: 4px; */
+  height: 18px;
+  width: 18px;
+  border-radius: 50%;
+  font-weight: bold;
+}
+
+
+
+/* Cart Tab Start Here========= */
+  .cartTab {
+    width: 350px;
+    background-color: white;
+    position: fixed;
+    top: 0;
+    right: 0;
+    padding: 7px;
+    height: 100%;
+    box-shadow: 0 0 10px gray;
+    display: grid;
+    grid-template-rows: 50px 1fr 40px;
+    transition: 0.5s;
+    z-index: 4001;
+  }
+
+  .cartHeader {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 0.1px solid lightgray;
+    /* margin-top: 0; */
+    padding-bottom: 7px;
+  }
+
+  .cartHeader> i {
+    margin-right: 15px;
+    cursor: pointer;
+  }
+
+  .cartHeader> i:hover {
+    color: red;
+  }
+
+  .cartTab h2 {
+    font-weight: 450;
+    font-size: 20px;
+  }
+
+  .listCart {
+    padding-top: 7px;
+  }
+
+  .item {
+    display: grid;
+    grid-template-columns: .5fr 1fr 1fr .1fr .4fr;
+    gap: 5px;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .image img {
+  width: 100%;
+  aspect-ratio: 1/1;
+  object-fit: cover;
+  box-shadow: 0 0 5px rgba(0,0,0,0.1);
+}
+
+
+  .cart-remove {
+    padding: 7px;
+    cursor: pointer;
+  }
+
+  .cart-remove:hover {
+    color: red;
+  }
+
+  .listCart .item {
+  margin-bottom: 5px; /* Adds space between items */
+}
+
+
+.listCart .item:nth-child(even) {
+  background-color: lightgray;
+}
+
+.listCart .item:nth-child(even) .image {
+  background-color: white;
+  padding: 0; /* remove padding so background fills edge-to-edge */
+  border-radius: 0; /* optional: remove rounding if you want full coverage */
+  display: block;
+}
+
+.listCart .item:nth-child(even) .image img {
+  display: block;
+  width: 100%;
+  height: auto;
+  background-color: white; /* ensures image itself has white background */
+  object-fit: inherit;
+}
+
+.btn button {
+  width: 100%;
+  padding: 10px;
+  border: none;
+  box-shadow: 0 0 5px rgb(202, 201, 201);
+  background-color: darkcyan;
+  font-size: 16px;
+  border-radius: 5px;
+  cursor: pointer;
+  color: white;
+  letter-spacing: 3px;
+}
+
+.btn button:hover {
+  background-color: rgb(3, 109, 109);
+}
+
+
+  /* * {
+    border: 1px solid red;
+  } */
 
 
     /* Mobile menu start */
@@ -181,6 +320,24 @@
 
 .logo {
   display: none;
+}
+
+#cartCount {
+  font-size: 11px;
+  background-color: red;
+  border-radius: 50px;
+  position: absolute;
+  /* display: flex; */
+  justify-content: center;
+  align-items: center;
+  width: 18px;
+  height: 18px;
+  top: -10px;
+  right: 10px;
+  color: white;
+  font-family: "Poppins";
+  font-weight: 400;
+  color: red;
 }
 
 /* .headerclose {

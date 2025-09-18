@@ -206,7 +206,7 @@ document.addEventListener('DOMContentLoaded', () => {
         <img src="${mainImage}" alt="${product.name}">
         <h3>${product.name}</h3>
         <div class="cardLayout">
-          <i class="ri-shopping-bag-2-line AddCart"></i>
+          <i class="ri-shopping-cart-fill AddCart"></i>
           <div class="price">Price: $${product.price}</div>
           <i class="ri-heart-line" style = "font-size: 18px; margin-left: 5px;"></i>
         </div>
