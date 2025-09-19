@@ -140,6 +140,20 @@
 
 
 /* Cart Tab Start Here========= */
+.overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.5);
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 0.3s ease;
+  z-index: 4000;
+}
+
+.overlay.active {
+  opacity: 1;
+  visibility: visible;
+}
   .cartTab {
     width: 350px;
     background-color: white;
