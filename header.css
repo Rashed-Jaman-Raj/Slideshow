@@ -145,7 +145,7 @@
     background-color: white;
     position: fixed;
     top: 0;
-    right: 0;
+    right: -100%;
     padding: 7px;
     height: 100%;
     box-shadow: 0 0 10px gray;
@@ -154,6 +154,10 @@
     transition: 0.5s;
     z-index: 4001;
   }
+
+    #cartTab.active {
+      right: 0;
+    }
 
   .cartHeader {
     display: flex;
@@ -182,7 +186,7 @@
     padding-top: 7px;
   }
 
-  .item {
+  .listCart .item {
     display: grid;
     grid-template-columns: .5fr 1fr 1fr .1fr .4fr;
     gap: 5px;
@@ -190,13 +194,12 @@
     justify-content: center;
   }
 
-  .image img {
+  .listCart .image img {
   width: 100%;
   aspect-ratio: 1/1;
   object-fit: cover;
   box-shadow: 0 0 5px rgba(0,0,0,0.1);
 }
-
 
   .cart-remove {
     padding: 7px;
@@ -213,7 +216,7 @@
 
 
 .listCart .item:nth-child(even) {
-  background-color: lightgray;
+  background-color: rgb(138, 221, 221);
 }
 
 .listCart .item:nth-child(even) .image {
