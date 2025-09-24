@@ -7,6 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
   paginationContainer.style.marginTop = '20px';
   container.after(paginationContainer);
 
+  const cartCountEl = document.querySelector('.cartCount');
   let allProducts = [];
   let currentPage = 1;
   const productsPerPage = 8;
@@ -19,11 +20,41 @@ document.addEventListener('DOMContentLoaded', () => {
     "Women Shoes", "Top Buttom Set", "Socks", "Koti"
   ];
 
+  // Load cart from localStorage
+  let cart = JSON.parse(localStorage.getItem('cart')) || {};
+
+  function saveCart() {
+    localStorage.setItem('cart', JSON.stringify(cart));
+  }
+
+  function updateCartCount() {
+    const totalItems = Object.values(cart).reduce((sum, item) => sum + item.quantity, 0);
+    if (cartCountEl) cartCountEl.textContent = totalItems;
+  }
+
+  function addToCart(productId) {
+    const product = allProducts.find(p => p.id === productId);
+    if (!product) return;
+
+    if (cart[productId]) {
+      cart[productId].quantity += 1;
+    } else {
+      cart[productId] = {
+        ...product,
+        quantity: 1
+      };
+    }
+
+    saveCart();
+    updateCartCount();
+  }
+
   fetch('products.json')
     .then(res => res.json())
     .then(data => {
       allProducts = data;
-      renderProducts(); // Default load
+      renderProducts();
+      updateCartCount(); // Initialize count on load
     })
     .catch(err => {
       console.error("Failed to load products.json:", err);
@@ -32,18 +63,13 @@ document.addEventListener('DOMContentLoaded', () => {
 
   function getFilteredProducts() {
     const womenProducts = allProducts.filter(p => p.category?.toLowerCase().trim() === 'women');
-
-    if (!currentType || currentType === 'all') {
-      return womenProducts;
-    }
+    if (!currentType || currentType === 'all') return womenProducts;
 
     return womenProducts.filter(product => {
       const productType = product.type?.trim();
-      if (currentType === 'Others') {
-        return !validTypes.includes(productType);
-      } else {
-        return productType === currentType;
-      }
+      return currentType === 'Others'
+        ? !validTypes.includes(productType)
+        : productType === currentType;
     });
   }
 
@@ -113,9 +139,9 @@ document.addEventListener('DOMContentLoaded', () => {
         <img src="${mainImage}" alt="${product.name}">
         <h3>${product.name}</h3>
         <div class="cardLayout">
-          <i class="ri-shopping-cart-fill AddCart"></i>
+          <i class="ri-shopping-cart-fill AddCart" data-id="${product.id}" style="cursor:pointer;"></i>
           <div class="price">Price: $${product.price}</div>
-          <i class="ri-heart-line" style = "font-size: 18px; margin-left: 5px;"></i>
+          <i class="ri-heart-line" style="font-size: 18px; margin-left: 5px;"></i>
         </div>
       `;
       container.appendChild(item);
@@ -123,6 +149,14 @@ document.addEventListener('DOMContentLoaded', () => {
 
     renderPagination(filtered.length);
   }
+
+  container.addEventListener('click', e => {
+    const target = e.target;
+    if (target.classList.contains('AddCart')) {
+      const productId = target.getAttribute('data-id');
+      addToCart(productId);
+    }
+  });
 
   sidebarLinks.forEach(link => {
     link.addEventListener('click', e => {
@@ -134,13 +168,5 @@ document.addEventListener('DOMContentLoaded', () => {
     });
   });
 });
-
-
-
-
-
-
-
-
 
 

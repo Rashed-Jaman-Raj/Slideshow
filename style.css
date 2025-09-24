@@ -13,7 +13,7 @@
   
 }
 
-.item {
+.productsList .item {
   /* position: relative; */
   border-radius: 6px;
   /* box-shadow: 0 0 10px lightgrey; */
@@ -43,6 +43,14 @@
   color: darkcyan;
   padding: 5px;
   cursor: pointer;
+ }
+
+ button.AddCart {
+  border: none;
+  font-size: 18px;
+  background-color: white;
+  cursor: pointer;
+  color: darkcyan;
  }
 
 

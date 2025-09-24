@@ -1,64 +1,117 @@
+//men.js
 
 document.addEventListener('DOMContentLoaded', () => {
   const container = document.getElementById('productsList');
   const sidebarLinks = document.querySelectorAll('.sideBar a');
-  let allProducts = [];
+  const paginationContainer = document.createElement('div');
+  paginationContainer.id = 'pagination';
+  paginationContainer.style.textAlign = 'center';
+  paginationContainer.style.marginTop = '20px';
+  container.after(paginationContainer);
 
-  // Define valid types from sidebar
+  const cartCountEl = document.querySelector('.cartCount');
+  let allProducts = [];
+  let currentPage = 1;
+  const productsPerPage = 8;
+  let currentType = null;
+
   const validTypes = [
-    "Men Suit", "Men Panjabi", "Men Kabli Panjabi", "Men Pajama",
-    "Men Waistcoat", "Men T-Shirt", "Men Polo Shirt", "Men Chinos",
-    "Men Jeans", "Men Shorts", "Men Shoes"
+    "Men Polo Shirt", "Men T-Shirt", "Men Panjabi", "Men Shoes",
+    "Men Chinos", "Men Suit", "Men Kabli Panjabi", "Men Pajama",
+    "Men Shorts", "Men Jeans", "Men Waistcoat", "Others"
   ];
 
-  // Load products
+  // Load cart from localStorage
+  let cart = JSON.parse(localStorage.getItem('cart')) || {};
+
+  function saveCart() {
+    localStorage.setItem('cart', JSON.stringify(cart));
+  }
+
+  function updateCartCount() {
+    const totalItems = Object.values(cart).reduce((sum, item) => sum + item.quantity, 0);
+    if (cartCountEl) cartCountEl.textContent = totalItems;
+  }
+
+  function addToCart(productId) {
+    const product = allProducts.find(p => p.id === productId);
+    if (!product) return;
+
+    if (cart[productId]) {
+      cart[productId].quantity += 1;
+    } else {
+      cart[productId] = {
+        ...product,
+        quantity: 1
+      };
+    }
+
+    saveCart();
+    updateCartCount();
+  }
+
   fetch('products.json')
     .then(res => res.json())
     .then(data => {
       allProducts = data;
-      renderMenProducts(); // Default load: all women products
+      renderProducts();
+      updateCartCount(); // Initialize count on load
     })
     .catch(err => {
       console.error("Failed to load products.json:", err);
       container.innerHTML = `<p style="color:red;">Error loading products.</p>`;
     });
 
-  // ✅ Render all "women" products
-  function renderMenProducts() {
-    container.innerHTML = '';
+  function getFilteredProducts() {
     const womenProducts = allProducts.filter(p => p.category?.toLowerCase().trim() === 'men');
+    if (!currentType || currentType === 'all') return womenProducts;
 
-    womenProducts.forEach(product => {
-      const item = document.createElement('div');
-      item.className = 'item';
-      const mainImage = product.image?.[0] || 'placeholder.jpg';
-      item.innerHTML = `
-        <img src="${mainImage}" alt="${product.name}">
-        <h3>${product.name}</h3>
-        <div class="cardLayout">
-          <i class="ri-shopping-cart-fill AddCart"></i>
-          <div class="price">Price: $${product.price}</div>
-          <i class="ri-heart-line" style = "font-size: 18px; margin-left: 5px;"></i>
-        </div>
-      `;
-      container.appendChild(item);
+    return womenProducts.filter(product => {
+      const productType = product.type?.trim();
+      return currentType === 'Others'
+        ? !validTypes.includes(productType)
+        : productType === currentType;
     });
   }
 
-  // ✅ Render by sidebar type, including "Others"
-  function renderProductsByType(type) {
+  function paginate(products, page) {
+    const start = (page - 1) * productsPerPage;
+    return products.slice(start, start + productsPerPage);
+  }
+
+  function renderPagination(totalItems) {
+    paginationContainer.innerHTML = '';
+    const totalPages = Math.ceil(totalItems / productsPerPage);
+
+    const prevBtn = document.createElement('button');
+    prevBtn.textContent = 'Prev';
+    prevBtn.disabled = currentPage === 1;
+    prevBtn.style.margin = '0 10px';
+    prevBtn.onclick = () => {
+      currentPage--;
+      renderProducts();
+    };
+    paginationContainer.appendChild(prevBtn);
+
+    const pageInfo = document.createElement('span');
+    pageInfo.textContent = ` Page ${currentPage} of ${totalPages} `;
+    paginationContainer.appendChild(pageInfo);
+
+    const nextBtn = document.createElement('button');
+    nextBtn.textContent = 'Next';
+    nextBtn.disabled = currentPage === totalPages;
+    nextBtn.style.margin = '0 10px';
+    nextBtn.onclick = () => {
+      currentPage++;
+      renderProducts();
+    };
+    paginationContainer.appendChild(nextBtn);
+  }
+
+  function renderProducts() {
     container.innerHTML = '';
-
-    const womenProducts = allProducts.filter(p => p.category?.toLowerCase().trim() === 'men');
-
-    const filtered = womenProducts.filter(product => {
-      const productType = product.type?.trim();
-      if (type === 'Others') {
-        return !validTypes.includes(productType);
-      } else {
-        return productType === type;
-      }
-    });
+    const filtered = getFilteredProducts();
+    const paginated = paginate(filtered, currentPage);
 
     if (filtered.length === 0) {
       container.innerHTML = `
@@ -72,13 +125,14 @@ document.addEventListener('DOMContentLoaded', () => {
           margin-top: 30px;
           font-family: 'Segoe UI', sans-serif;
         ">
-          No products found for "${type}"
+          No products found${currentType && currentType !== 'all' ? ` for "${currentType}"` : ''}
         </h3>
       `;
+      paginationContainer.innerHTML = '';
       return;
     }
 
-    filtered.forEach(product => {
+    paginated.forEach(product => {
       const item = document.createElement('div');
       item.className = 'item';
       const mainImage = product.image?.[0] || 'placeholder.jpg';
@@ -86,28 +140,34 @@ document.addEventListener('DOMContentLoaded', () => {
         <img src="${mainImage}" alt="${product.name}">
         <h3>${product.name}</h3>
         <div class="cardLayout">
-            <i class="ri-shopping-bag-2-line AddCart"></i>
-            <div class="price">Price: $${product.price}</div>
-            <i class="ri-heart-line" style = "font-size: 18px; margin-left: 5px;"></i>
+          <i class="ri-shopping-cart-fill AddCart" data-id="${product.id}" style="cursor:pointer;"></i>
+          <div class="price">Price: $${product.price}</div>
+          <i class="ri-heart-line" style="font-size: 18px; margin-left: 5px;"></i>
         </div>
-        
       `;
       container.appendChild(item);
     });
+
+    renderPagination(filtered.length);
   }
 
-  // ✅ Handle sidebar clicks
+  container.addEventListener('click', e => {
+    const target = e.target;
+    if (target.classList.contains('AddCart')) {
+      const productId = target.getAttribute('data-id');
+      addToCart(productId);
+    }
+  });
+
   sidebarLinks.forEach(link => {
     link.addEventListener('click', e => {
       e.preventDefault();
+      currentPage = 1;
       const type = link.getAttribute('data-category');
-
-      if (link.id === 'allProduct') {
-        renderMenProducts(); // Show all women products
-      } else {
-        renderProductsByType(type);
-      }
+      currentType = link.id === 'allProduct' ? 'all' : type;
+      renderProducts();
     });
   });
 });
+
 

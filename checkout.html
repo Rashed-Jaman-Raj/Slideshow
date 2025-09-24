@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Checkout</title>
+  <style>
+    body { font-family: Arial, sans-serif; padding: 20px; }
+    .checkout-item { border-bottom: 1px solid #ddd; padding: 10px 0; }
+    .total { font-weight: bold; margin-top: 20px; }
+    button { margin-top: 20px; padding: 10px 15px; cursor: pointer;  border-radius: 10px; background-color: green; color: white;}
+  </style>
+</head>
+<body>
+  <h2 style="color: darkcyan;">Checkout Summary</h2>
+  <div id="checkoutSummary"></div>
+  <div class="total" id="checkoutTotal"></div>
+  <button id="placeOrder">Place Order</button>
+
+  <script>
+    let listProducts = [];
+    let carts = [];
+
+    fetch("products.json")
+      .then(res => res.json())
+      .then(data => {
+        listProducts = data;
+        const saved = localStorage.getItem("cart");
+        if (saved) {
+          carts = JSON.parse(saved);
+        }
+        renderCheckout();
+      });
+
+    function renderCheckout() {
+      const summaryDiv = document.getElementById("checkoutSummary");
+      const totalDiv = document.getElementById("checkoutTotal");
+      summaryDiv.innerHTML = "";
+      let total = 0;
+
+      carts.forEach(cart => {
+        const product = listProducts.find(p => p.id == cart.product_id);
+        if (!product) return;
+        const itemDiv = document.createElement("div");
+        itemDiv.classList.add("checkout-item");
+        itemDiv.innerHTML = `${product.name} x${cart.quantity} — $${(product.price * cart.quantity).toFixed(2)}`;
+        summaryDiv.appendChild(itemDiv);
+        total += product.price * cart.quantity;
+      });
+
+      totalDiv.textContent = "Total: $" + total.toFixed(2);
+    }
+
+    // Place order button
+    document.getElementById("placeOrder").addEventListener("click", () => {
+      alert("✅The order will not be placed right now. Please wait for few days. These products will be coming soon.  ");
+      localStorage.removeItem("cart"); // clear cart
+      window.location.href = "index.html"; // back to home
+    });
+  </script>
+
+
+<script src="cart.js"></script>
+</body>
+</html>

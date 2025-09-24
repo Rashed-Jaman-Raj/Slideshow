@@ -12,7 +12,7 @@ body {
 
 .productDetail {
   display: grid;
-  grid-template-columns: 1fr 1fr .6fr;
+  grid-template-columns: 1.1fr .6fr .7fr;
   gap: 2rem;
   margin: 2rem;
 }
@@ -47,8 +47,19 @@ body {
   cursor: pointer;
 }
 
+.productInfo  {
+  gap: 15px;
+}
+
 input {
   width: 3rem;
+}
+
+
+
+.addToCartBtn {
+  width: 257px;
+  margin-top: 8px;
 }
 
 .sizeGuideButton {
@@ -57,6 +68,7 @@ input {
  padding: 5px;
  border-radius: 4px;
  color: white;
+ margin-left: 8px;
 }
 
 .sizeGuideButton:hover {
@@ -70,10 +82,11 @@ input {
   border-radius: 4px;
   padding: 5px 10px;
   color: white;
+  font-size: 15px;
 }
 
 .addToCartBtn:hover {
-  background-color: darkcyan;
+  background-color: rgb(6, 108, 108);
   cursor: pointer;
 }
 

@@ -42,38 +42,6 @@
       gap: 1rem;
       z-index: 1001;
     }
-/* 
-    .drop-cont {
-      display: none;
-      position: absolute;
-      margin-top: 16px;
-      left: 0;
-      padding-top: 20px;
-      height: 100dvh;
-      list-style: none;
-      box-shadow: 0 0 5px lightgrey;
-      width: 200px;
-      background-color: white;
-    } */
-
-
-    /* .drop-cont li {
-      padding: 5px;
-      padding-left: 20px;
-      transition: 0.3s;
-    } */
-/* 
-    .drop-cont li a {
-      color: black;
-      text-decoration: none;
-      padding: 10px;
-    } */
-
-    /* .drop-cont li:hover {
-      background-color: lavender;
-      display: block;
-      padding-left: 25px;
-    } */
 
     .nav-link > button {
       display: flex;
@@ -87,12 +55,9 @@
     }
 
     .nav-link > button:hover {
-      color: rgb(2, 84, 84);
+      color: rgb(2, 76, 64);
     }
-/* 
-    .nav-link.open .drop-cont {
-      display: block;
-    } */
+
 
     .arrow i {
       transition: transform 0.3s ease;
@@ -113,11 +78,33 @@
   position: relative;
   cursor: pointer;
   display: inline-block;
+
 }
 
 #cartIcon i {
   font-size: 24px;
-  color: #333;
+  color: darkcyan;
+}
+
+#cartIcon i:hover {
+  color: rgb(2, 76, 64);
+}
+
+.nav-link> button #wishlist {
+   position: absolute;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  top: 25px;
+  right: 133px;
+  background-color: rgb(245, 23, 108);
+  color: rgb(255, 255, 255);
+  font-size: 12px;
+  /* padding: 4px; */
+  height: 17px;
+  width: 17px;
+  border-radius: 50%;
+  font-weight: bold;
 }
 
 #cartCount {
@@ -162,14 +149,15 @@
     right: -100%;
     padding: 7px;
     height: 100%;
-    box-shadow: 0 0 10px gray;
+    /* box-shadow: 0 0 3px rgb(224, 223, 223); */
     display: grid;
     grid-template-rows: 50px 1fr 40px;
     transition: 0.5s;
     z-index: 4001;
+    overflow: scroll;
   }
 
-    #cartTab.active {
+    .cartTab.active {
       right: 0;
     }
 
@@ -202,7 +190,7 @@
 
   .listCart .item {
     display: grid;
-    grid-template-columns: .5fr 1fr 1fr .1fr .4fr;
+    grid-template-columns: .5fr 2fr 1fr .8fr .4fr;
     gap: 5px;
     align-items: center;
     justify-content: center;
@@ -212,7 +200,16 @@
   width: 100%;
   aspect-ratio: 1/1;
   object-fit: cover;
-  box-shadow: 0 0 5px rgba(0,0,0,0.1);
+  /* box-shadow: 0 0 5px rgba(0,0,0,0.1); */
+}
+
+.quantity {
+  width: 100%;
+}
+
+.cartQty {
+  width: 50px;
+  margin: 0 10px;
 }
 
   .cart-remove {
