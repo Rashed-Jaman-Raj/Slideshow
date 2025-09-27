@@ -9,6 +9,43 @@
       font-family: Arial, Helvetica, sans-serif;
       /* background-color: rgb(243, 238, 211); */
     }
+ /* * {
+  border: 1px solid red;
+ } */
+    .topHeader {
+      display: flex;
+      flex-direction: row;
+      gap: 20px;
+      height: 50px;
+      margin-left: 25px;
+      font-family: Pacifico;
+      cursor: pointer;
+      align-items: center;
+      padding: 2px;
+    }
+
+    .topHeader i {
+      font-size: 17px; 
+      font-weight: 200; 
+      color: rgb(130, 129, 129);
+      font-family: sans-serif;
+    }
+
+    .topHeader a {
+      font-size: 15px; 
+      font-weight: 100; 
+      color: rgb(130, 129, 129); 
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      padding-left: 4px;
+      text-shadow: .5px .5px lightgray;
+      text-decoration: none;
+    }
+
+    .topHeader a:hover {
+      color: rgb(2, 2, 2);
+    }
+     
+
 
     .logo {
       font-weight: 550;
@@ -35,11 +72,12 @@
       z-index: 1001;
     }
 
+    
     .nav-container {
       display: flex;
       justify-content: center;
       align-items: center;
-      gap: 1rem;
+      gap: 1.5rem;
       z-index: 1001;
     }
 
@@ -49,7 +87,7 @@
       border: none;
       padding: 10px;
       cursor: pointer;
-      font-size: 16px;
+      font-size: 17px;
       font-weight: 500;
       color: darkcyan;
     }
@@ -74,7 +112,133 @@
     }
 
 
-    #cartIcon {
+    .newArrival {
+    margin-bottom: 12px;
+    padding: 3px;
+    cursor: pointer;
+  }
+
+  .newArrival .Newar {
+      font-size: 12px;
+      margin-left: -10px;
+  }
+
+
+  .newArrival > button {
+    font-size: 17px;
+    border: none;
+    background-color: white;
+    color: darkcyan;
+    cursor: pointer;
+    padding: 4px;
+  }
+
+
+  .newArrival > button:hover {
+    color: rgb(2, 76, 64);
+  }
+
+
+  .flatSale {
+    margin-bottom: 12px;
+    padding: 3px;
+    cursor: pointer;
+  }
+
+  .flatSale .flat50 {
+      font-size: 12px;
+      margin-left: 15px;
+  }
+
+
+  .flatSale > button {
+    font-size: 17px;
+    border: none;
+    background-color: white;
+    color: darkcyan;
+    cursor: pointer;
+    padding: 4px;
+  }
+
+
+  .flatSale > button:hover {
+    color: rgb(2, 76, 64);
+  }
+
+#searchIcon {
+  position: relative;
+  cursor: pointer;
+  display: inline-block;
+  margin-left: 50px;
+}
+
+
+#searchIcon i {
+  font-size: 24px;
+  color: darkcyan;
+}
+
+#searchIcon i:hover {
+  color: rgb(2, 76, 64);
+}
+
+
+
+
+#userIcon {
+  position: relative;
+  cursor: pointer;
+  display: inline-block;
+
+}
+
+#userIcon i {
+  font-size: 24px;
+  color: darkcyan;
+}
+
+#userIcon i:hover {
+  color: rgb(2, 76, 64);
+}
+
+
+
+#wishlistIcon {
+  position: relative;
+  cursor: pointer;
+  display: inline-block;
+
+}
+
+#wishlistIcon i {
+  font-size: 24px;
+  color: darkcyan;
+}
+
+#wishlistIcon i:hover {
+  color: rgb(2, 76, 64)
+}
+
+#wishlistCount {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  top: -6px;
+  right: -8px;
+  background-color: rgb(239, 9, 189);
+  color: white;
+  font-size: 10px;
+  /* padding: 4px; */
+  height: 16px;
+  width: 16px;
+  border-radius: 50%;
+  font-weight: bold;
+}
+
+
+
+#cartIcon {
   position: relative;
   cursor: pointer;
   display: inline-block;
@@ -90,22 +254,7 @@
   color: rgb(2, 76, 64);
 }
 
-.nav-link> button #wishlist {
-   position: absolute;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  top: 25px;
-  right: 133px;
-  background-color: rgb(245, 23, 108);
-  color: rgb(255, 255, 255);
-  font-size: 12px;
-  /* padding: 4px; */
-  height: 17px;
-  width: 17px;
-  border-radius: 50%;
-  font-weight: bold;
-}
+
 
 #cartCount {
   position: absolute;

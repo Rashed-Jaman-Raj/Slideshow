@@ -11,6 +11,15 @@
 <body>
   
 
+  <div class="topHeader">
+    <div style="display: flex; align-items: center;">
+      <i class="ri-phone-line"></i><a href="tel:01124-365247">01124-365247</a>
+    </div>
+    <div style="display: flex; align-items: center;">
+      <i class="ri-mail-line"></i> <a href="mailto:contact@rajplus.com">contact@raj-plus.com</a>
+    </div>
+  </div>
+
   <div class="myHeader">
     <div class="small-menu">
       <i class="ri-menu-line" onclick="openNav()"></i>
@@ -23,38 +32,47 @@
         <button>HOME</button>
       </div>
 
+      <div class="newArrival">
+        <div class="Newar" style="color: green;">NEW</div>
+        <button>ARRIVALS</button>
+      </div>
+
       <div class="nav-link">
-        <button>NEW ARRIVALS<span class="arrow"><i class="ri-arrow-down-s-line"></i></span>
-        </button>
-        <div class="drop-cont">
-        </div>
+
+        
+        <div class="flatSale"> 
+          <div class="flat50">FLAT <span style="color: red;">50%</span></div>
+        <button>SALE</button>
+      </div>
+
+        
       </div>
 
       <div class="nav-link" onclick="window.location.href= 'men.html'" >
-        <button>MEN<span class="arrow"><i class="ri-arrow-down-s-line"></i></span>
-        </button>
+        <button>MEN</button>
       </div>
 
       <div class="nav-link" onclick="window.location.href='women.html'">
-        <button>WOMEN<span class="arrow"><i class="ri-arrow-down-s-line"></i></span>
-        </button>
+        <button>WOMEN</button>
       </div>
 
       <div class="nav-link">
-        <button>KIDS<span class="arrow"><i class="ri-arrow-down-s-line"></i></span>
-        </button>
-      </div>
-      
-      
-      <div class="nav-link">
-        <button>CONTACTS<span class="arrow"><i class="ri-arrow-down-s-line"></i></span>
-        </button>
+        <button>KIDS</button>
       </div>
 
 
-      <div class="nav-link">
-        <button>WISHLIST<i class="ri-heart-fill" id="wishlist-love"></i></i>
-        </button>
+      <div id="searchIcon">
+        <i class="ri-search-line searchWeb" id="searchWeb"></i>
+      </div>
+
+      <div id="userIcon">
+        <i class="ri-user-line userLogin" id="userLogin"></i>
+      </div>
+
+
+      <div id="wishlistIcon">
+        <i class="ri-heart-fill wishlist-love" id="wishlist-love"></i>
+        <div id="wishlistCount">0</div>
       </div>
       <div id="cartIcon">
         <i class="ri-shopping-cart-fill addCart" id="icon-cart"></i>
@@ -62,6 +80,8 @@
       </div>
     </div>
   </div>
+
+
 
   <!-- Cart Tab Start Here========= -->
   <div class="overlay" id="overlay"></div>
