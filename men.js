@@ -12,7 +12,7 @@ document.addEventListener('DOMContentLoaded', () => {
   const cartCountEl = document.querySelector('.cartCount');
   let allProducts = [];
   let currentPage = 1;
-  const productsPerPage = 8;
+  const productsPerPage = 100;
   let currentType = null;
 
   const validTypes = [
@@ -140,10 +140,10 @@ document.addEventListener('DOMContentLoaded', () => {
         <img src="${mainImage}" alt="${product.name}">
         <h3>${product.name}</h3>
         <div class="cardLayout">
-          <i class="ri-shopping-cart-fill AddCart" data-id="${product.id}" style="cursor:pointer;"></i>
-          <div class="price">Price: $${product.price}</div>
-          <i class="ri-heart-line" style="font-size: 18px; margin-left: 5px;"></i>
-        </div>
+        <button class="ri-shopping-cart-line AddCart" data-id="${product.id}"></button>
+        <div class="price">Price: $${product.price}</div>
+        <i class="ri-heart-line" style="font-size: 18px; margin-left: 5px;"></i>
+      </div>
       `;
       container.appendChild(item);
     });

@@ -57,11 +57,6 @@ input {
 
 
 
-.addToCartBtn {
-  width: 257px;
-  margin-top: 8px;
-}
-
 .popup-content {
   display: none;
   position: absolute;
@@ -74,6 +69,8 @@ input {
   box-shadow: 0 5px 15px rgba(0, 0, 0, 0.5);
   animation: fadeIn 0.3s ease-in-out;
 }
+
+
 
 .sizeGuideButton {
  background-color: cadetblue;
@@ -110,11 +107,14 @@ input {
   padding: 5px 10px;
   color: white;
   font-size: 15px;
+  width: 257px;
+  margin-top: 8px;
 }
 
 .addToCartBtn:hover {
   background-color: rgb(6, 108, 108);
   cursor: pointer;
+  color: white;
 }
 
 .additional-info {
@@ -144,6 +144,17 @@ input {
 }
 
 
+
+
+
+
+
+
+
+
+
+
+
 @media (width <= 768px) {
   .productDetail {
   display: grid;
@@ -151,14 +162,4 @@ input {
   margin: 1rem;
 }
 
-/* .imageSection {
-  display: grid;
-  grid-template-columns: 1fr;
-  gap: 10px;
-}
-
-.thumbnails {
-  display: grid;
-  grid-template-columns: repeat(4, 1fr);
-} */
 }

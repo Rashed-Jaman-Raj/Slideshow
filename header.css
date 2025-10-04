@@ -64,7 +64,7 @@
       display: flex;
       justify-content: space-around;
       align-items: center;
-      height: 70px;
+      height: 73px;
       box-shadow: 0 0 10px rgb(197, 197, 197);
       /* background-color: rgb(243, 238, 211); */
       position: sticky;
@@ -85,15 +85,16 @@
       display: flex;
       background-color: inherit;
       border: none;
-      padding: 10px;
+      padding: 5px 10px;
       cursor: pointer;
       font-size: 17px;
       font-weight: 500;
-      color: darkcyan;
+      color: black;
     }
 
     .nav-link > button:hover {
-      color: rgb(2, 76, 64);
+      color: darkcyan;
+      border-bottom: 2px solid green;
     }
 
 
@@ -128,14 +129,15 @@
     font-size: 17px;
     border: none;
     background-color: white;
-    color: darkcyan;
+    color: black;
     cursor: pointer;
     padding: 4px;
   }
 
 
   .newArrival > button:hover {
-    color: rgb(2, 76, 64);
+    color: darkcyan;
+    border-bottom: 2px solid green;
   }
 
 
@@ -155,14 +157,15 @@
     font-size: 17px;
     border: none;
     background-color: white;
-    color: darkcyan;
+    color: black;
     cursor: pointer;
     padding: 4px;
   }
 
 
   .flatSale > button:hover {
-    color: rgb(2, 76, 64);
+    color: darkcyan;
+    border-bottom: 2px solid green;
   }
 
 #searchIcon {
@@ -175,11 +178,11 @@
 
 #searchIcon i {
   font-size: 24px;
-  color: darkcyan;
+  color: black;
 }
 
 #searchIcon i:hover {
-  color: rgb(2, 76, 64);
+  color: green;
 }
 
 
@@ -194,11 +197,11 @@
 
 #userIcon i {
   font-size: 24px;
-  color: darkcyan;
+  color: black;
 }
 
 #userIcon i:hover {
-  color: rgb(2, 76, 64);
+  color: green;
 }
 
 
@@ -212,14 +215,14 @@
 
 #wishlistIcon i {
   font-size: 24px;
-  color: darkcyan;
+  color: black;
 }
 
 #wishlistIcon i:hover {
-  color: rgb(2, 76, 64)
+  color: green;
 }
 
-#wishlistCount {
+/* #wishlistCount {
   position: absolute;
   display: flex;
   align-items: center;
@@ -229,12 +232,11 @@
   background-color: rgb(239, 9, 189);
   color: white;
   font-size: 10px;
-  /* padding: 4px; */
   height: 16px;
   width: 16px;
   border-radius: 50%;
   font-weight: bold;
-}
+} */
 
 
 
@@ -247,11 +249,11 @@
 
 #cartIcon i {
   font-size: 24px;
-  color: darkcyan;
+  color: black;
 }
 
 #cartIcon i:hover {
-  color: rgb(2, 76, 64);
+  color: green;
 }
 
 
@@ -410,6 +412,16 @@
 .btn button:hover {
   background-color: rgb(3, 109, 109);
 }
+
+
+
+
+
+
+
+
+
+
 
 
   /* * {

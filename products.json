@@ -2,6 +2,445 @@
 [
 
   {
+    "id": 253,
+    "name": "Women Long Tunic",
+    "price": 110,
+    "category": "women",
+    "type": "Long Tunic",
+    "image": [
+      "img/women/wLongTunic/w-long-tunic (5).png",
+      "img/women/wLongTunic/w-long-tunic (6).png",
+      "img/women/wLongTunic/w-long-tunic (7).png",
+      "img/women/wLongTunic/w-long-tunic (8).png"
+    ],
+    "description": "our brand has expanded to several boutique locations throughout the city, consistently delivering luxury clothing that aligns with the modern woman's silhouette. Our commitment to quality and craftsmanship has never wavered. The inception of Iris was inspired by a gap in the Canadian fashion market, particularly for women seeking clothing that enhances their natural beauty while offering both style and comfort."
+  },
+
+  {
+    "id": 254,
+    "name": "Women Long Tunic",
+    "price": 105,
+    "category": "women",
+    "type": "Long Tunic",
+    "image": [
+      "img/women/wLongTunic/w-long-tunic (9).png",
+      "img/women/wLongTunic/w-long-tunic (10).png",
+      "img/women/wLongTunic/w-long-tunic (11).png",
+      "img/women/wLongTunic/w-long-tunic (12).png"
+    ],
+    "description": "our brand has expanded to several boutique locations throughout the city, consistently delivering luxury clothing that aligns with the modern woman's silhouette. Our commitment to quality and craftsmanship has never wavered. The inception of Iris was inspired by a gap in the Canadian fashion market, particularly for women seeking clothing that enhances their natural beauty while offering both style and comfort."
+  },
+
+  {
+    "id": 255,
+    "name": "Women Long Tunic",
+    "price": 95,
+    "category": "women",
+    "type": "Long Tunic",
+    "image": [
+      "img/women/wLongTunic/w-long-tunic (13).png",
+      "img/women/wLongTunic/w-long-tunic (14).png",
+      "img/women/wLongTunic/w-long-tunic (15).png",
+      "img/women/wLongTunic/w-long-tunic (16).png"
+    ],
+    "description": "our brand has expanded to several boutique locations throughout the city, consistently delivering luxury clothing that aligns with the modern woman's silhouette. Our commitment to quality and craftsmanship has never wavered. The inception of Iris was inspired by a gap in the Canadian fashion market, particularly for women seeking clothing that enhances their natural beauty while offering both style and comfort."
+  },
+
+
+  {
+    "id": 62,
+    "name": "Gown",
+    "price": 175,
+    "category": "women",
+    "type": "Gown",
+    "image": [
+      "img/women/gown/gown (17).png",
+      "img/women/gown/gown (18).png",
+      "img/women/gown/gown (19).png",
+      "img/women/gown/gown (20).png"
+    ],
+    "description": "our brand has expanded to several boutique locations throughout the city, consistently delivering luxury clothing that aligns with the modern woman's silhouette. Our commitment to quality and craftsmanship has never wavered. The inception of Iris was inspired by a gap in the Canadian fashion market, particularly for women seeking clothing that enhances their natural beauty while offering both style and comfort."
+  },
+
+  {
+    "id": 63,
+    "name": "Gown",
+    "price": 150,
+    "category": "women",
+    "type": "Gown",
+    "image": [
+      "img/women/gown/gown (21).png",
+      "img/women/gown/gown (22).png",
+      "img/women/gown/gown (23).png",
+      "img/women/gown/gown (24).png"
+    ],
+    "description": "our brand has expanded to several boutique locations throughout the city, consistently delivering luxury clothing that aligns with the modern woman's silhouette. Our commitment to quality and craftsmanship has never wavered. The inception of Iris was inspired by a gap in the Canadian fashion market, particularly for women seeking clothing that enhances their natural beauty while offering both style and comfort."
+  },
+
+  {
+    "id": 64,
+    "name": "Shari",
+    "price": 120,
+    "category": "women",
+    "type": "Shari",
+    "image": [
+      "img/women/topKaftanShari/shari1.jpg",
+      "img/women/topKaftanShari/shari2.jpg",
+      "img/women/topKaftanShari/shari3.jpg",
+      "img/women/topKaftanShari/shari4.jpg"
+    ],
+    "description": "our brand has expanded to several boutique locations throughout the city, consistently delivering luxury clothing that aligns with the modern woman's silhouette. Our commitment to quality and craftsmanship has never wavered. The inception of Iris was inspired by a gap in the Canadian fashion market, particularly for women seeking clothing that enhances their natural beauty while offering both style and comfort."
+  },
+
+  {
+    "id": 65,
+    "name": "Shari",
+    "price": 140,
+    "category": "women",
+    "type": "Shari",
+    "image": [
+      "img/women/topKaftanShari/shari5.jpg",
+      "img/women/topKaftanShari/shari6.jpg",
+      "img/women/topKaftanShari/shari7.jpg",
+      "img/women/topKaftanShari/shari8.jpg"
+    ],
+    "description": "our brand has expanded to several boutique locations throughout the city, consistently delivering luxury clothing that aligns with the modern woman's silhouette. Our commitment to quality and craftsmanship has never wavered. The inception of Iris was inspired by a gap in the Canadian fashion market, particularly for women seeking clothing that enhances their natural beauty while offering both style and comfort."
+  },
+
+  {
+    "id": 66,
+    "name": "Shari",
+    "price": 135,
+    "category": "women",
+    "type": "Shari",
+    "image": [
+      "img/women/topKaftanShari/shari9.jpg",
+      "img/women/topKaftanShari/shari10.jpg",
+      "img/women/topKaftanShari/shari11.jpg",
+      "img/women/topKaftanShari/shari12.jpg"
+    ],
+    "description": "our brand has expanded to several boutique locations throughout the city, consistently delivering luxury clothing that aligns with the modern woman's silhouette. Our commitment to quality and craftsmanship has never wavered. The inception of Iris was inspired by a gap in the Canadian fashion market, particularly for women seeking clothing that enhances their natural beauty while offering both style and comfort."
+  },
+
+  
+
+  {
+    "id": 256,
+    "name": "Women Long Tunic",
+    "price": 115,
+    "category": "women",
+    "type": "Long Tunic",
+    "image": [
+      "img/women/wLongTunic/w-long-tunic (17).png",
+      "img/women/wLongTunic/w-long-tunic (18).png",
+      "img/women/wLongTunic/w-long-tunic (19).png",
+      "img/women/wLongTunic/w-long-tunic (20).png"
+    ],
+    "description": "our brand has expanded to several boutique locations throughout the city, consistently delivering luxury clothing that aligns with the modern woman's silhouette. Our commitment to quality and craftsmanship has never wavered. The inception of Iris was inspired by a gap in the Canadian fashion market, particularly for women seeking clothing that enhances their natural beauty while offering both style and comfort."
+  },
+
+  {
+    "id": 257,
+    "name": "Women Long Tunic",
+    "price": 90,
+    "category": "women",
+    "type": "Long Tunic",
+    "image": [
+      "img/women/wLongTunic/w-long-tunic (21).png",
+      "img/women/wLongTunic/w-long-tunic (22).png",
+      "img/women/wLongTunic/w-long-tunic (23).png",
+      "img/women/wLongTunic/w-long-tunic (24).png"
+    ],
+    "description": "our brand has expanded to several boutique locations throughout the city, consistently delivering luxury clothing that aligns with the modern woman's silhouette. Our commitment to quality and craftsmanship has never wavered. The inception of Iris was inspired by a gap in the Canadian fashion market, particularly for women seeking clothing that enhances their natural beauty while offering both style and comfort."
+  },
+
+  {
+    "id": 258,
+    "name": "Women Long Tunic",
+    "price": 90,
+    "category": "women",
+    "type": "Long Tunic",
+    "image": [
+      "img/women/wLongTunic/w-long-tunic (25).png",
+      "img/women/wLongTunic/w-long-tunic (26).png",
+      "img/women/wLongTunic/w-long-tunic (27).png",
+      "img/women/wLongTunic/w-long-tunic (28).png"
+    ],
+    "description": "our brand has expanded to several boutique locations throughout the city, consistently delivering luxury clothing that aligns with the modern woman's silhouette. Our commitment to quality and craftsmanship has never wavered. The inception of Iris was inspired by a gap in the Canadian fashion market, particularly for women seeking clothing that enhances their natural beauty while offering both style and comfort."
+  },
+
+  {
+    "id": 259,
+    "name": "Women Long Tunic",
+    "price": 92,
+    "category": "women",
+    "type": "Long Tunic",
+    "image": [
+      "img/women/wLongTunic/w-long-tunic (29).png",
+      "img/women/wLongTunic/w-long-tunic (30).png",
+      "img/women/wLongTunic/w-long-tunic (31).png",
+      "img/women/wLongTunic/w-long-tunic (32).png"
+    ],
+    "description": "our brand has expanded to several boutique locations throughout the city, consistently delivering luxury clothing that aligns with the modern woman's silhouette. Our commitment to quality and craftsmanship has never wavered. The inception of Iris was inspired by a gap in the Canadian fashion market, particularly for women seeking clothing that enhances their natural beauty while offering both style and comfort."
+  },
+
+  {
+    "id": 260,
+    "name": "Women Long Tunic",
+    "price": 120,
+    "category": "women",
+    "type": "Long Tunic",
+    "image": [
+      "img/women/wLongTunic/w-long-tunic (33).png",
+      "img/women/wLongTunic/w-long-tunic (34).png",
+      "img/women/wLongTunic/w-long-tunic (35).png",
+      "img/women/wLongTunic/w-long-tunic (36).png"
+    ],
+    "description": "our brand has expanded to several boutique locations throughout the city, consistently delivering luxury clothing that aligns with the modern woman's silhouette. Our commitment to quality and craftsmanship has never wavered. The inception of Iris was inspired by a gap in the Canadian fashion market, particularly for women seeking clothing that enhances their natural beauty while offering both style and comfort."
+  },
+
+  {
+    "id": 261,
+    "name": "Women Long Tunic",
+    "price": 110,
+    "category": "women",
+    "type": "Long Tunic",
+    "image": [
+      "img/women/wLongTunic/w-long-tunic (37).png",
+      "img/women/wLongTunic/w-long-tunic (38).png",
+      "img/women/wLongTunic/w-long-tunic (39).png",
+      "img/women/wLongTunic/w-long-tunic (40).png"
+    ],
+    "description": "our brand has expanded to several boutique locations throughout the city, consistently delivering luxury clothing that aligns with the modern woman's silhouette. Our commitment to quality and craftsmanship has never wavered. The inception of Iris was inspired by a gap in the Canadian fashion market, particularly for women seeking clothing that enhances their natural beauty while offering both style and comfort."
+  },
+
+  {
+    "id": 262,
+    "name": "Women Long Tunic",
+    "price": 105,
+    "category": "women",
+    "type": "Long Tunic",
+    "image": [
+      "img/women/wLongTunic/w-long-tunic (41).png",
+      "img/women/wLongTunic/w-long-tunic (42).png",
+      "img/women/wLongTunic/w-long-tunic (43).png",
+      "img/women/wLongTunic/w-long-tunic (44).png"
+    ],
+    "description": "our brand has expanded to several boutique locations throughout the city, consistently delivering luxury clothing that aligns with the modern woman's silhouette. Our commitment to quality and craftsmanship has never wavered. The inception of Iris was inspired by a gap in the Canadian fashion market, particularly for women seeking clothing that enhances their natural beauty while offering both style and comfort."
+  },
+
+  {
+    "id": 263,
+    "name": "Women Long Tunic",
+    "price": 125,
+    "category": "women",
+    "type": "Long Tunic",
+    "image": [
+      "img/women/wLongTunic/w-long-tunic (45).png",
+      "img/women/wLongTunic/w-long-tunic (46).png",
+      "img/women/wLongTunic/w-long-tunic (47).png",
+      "img/women/wLongTunic/w-long-tunic (48).png"
+    ],
+    "description": "our brand has expanded to several boutique locations throughout the city, consistently delivering luxury clothing that aligns with the modern woman's silhouette. Our commitment to quality and craftsmanship has never wavered. The inception of Iris was inspired by a gap in the Canadian fashion market, particularly for women seeking clothing that enhances their natural beauty while offering both style and comfort."
+  },
+
+  {
+    "id": 264,
+    "name": "Women Long Tunic",
+    "price": 120,
+    "category": "women",
+    "type": "Long Tunic",
+    "image": [
+      "img/women/wLongTunic/w-long-tunic (49).png",
+      "img/women/wLongTunic/w-long-tunic (50).png",
+      "img/women/wLongTunic/w-long-tunic (51).png",
+      "img/women/wLongTunic/w-long-tunic (52).png"
+    ],
+    "description": "our brand has expanded to several boutique locations throughout the city, consistently delivering luxury clothing that aligns with the modern woman's silhouette. Our commitment to quality and craftsmanship has never wavered. The inception of Iris was inspired by a gap in the Canadian fashion market, particularly for women seeking clothing that enhances their natural beauty while offering both style and comfort."
+  },
+
+  {
+    "id": 265,
+    "name": "Women Long Tunic",
+    "price": 110,
+    "category": "women",
+    "type": "Long Tunic",
+    "image": [
+      "img/women/wLongTunic/w-long-tunic (53).png",
+      "img/women/wLongTunic/w-long-tunic (54).png",
+      "img/women/wLongTunic/w-long-tunic (55).png",
+      "img/women/wLongTunic/w-long-tunic (56).png"
+    ],
+    "description": "our brand has expanded to several boutique locations throughout the city, consistently delivering luxury clothing that aligns with the modern woman's silhouette. Our commitment to quality and craftsmanship has never wavered. The inception of Iris was inspired by a gap in the Canadian fashion market, particularly for women seeking clothing that enhances their natural beauty while offering both style and comfort."
+  },
+
+  {
+    "id": 266,
+    "name": "Women Long Tunic",
+    "price": 130,
+    "category": "women",
+    "type": "Long Tunic",
+    "image": [
+      "img/women/wLongTunic/w-long-tunic (57).png",
+      "img/women/wLongTunic/w-long-tunic (58).png",
+      "img/women/wLongTunic/w-long-tunic (59).png",
+      "img/women/wLongTunic/w-long-tunic (60).png"
+    ],
+    "description": "our brand has expanded to several boutique locations throughout the city, consistently delivering luxury clothing that aligns with the modern woman's silhouette. Our commitment to quality and craftsmanship has never wavered. The inception of Iris was inspired by a gap in the Canadian fashion market, particularly for women seeking clothing that enhances their natural beauty while offering both style and comfort."
+  },
+
+  {
+    "id": 267,
+    "name": "Women Long Tunic",
+    "price": 90,
+    "category": "women",
+    "type": "Long Tunic",
+    "image": [
+      "img/women/wLongTunic/w-long-tunic (61).png",
+      "img/women/wLongTunic/w-long-tunic (62).png",
+      "img/women/wLongTunic/w-long-tunic (63).png",
+      "img/women/wLongTunic/w-long-tunic (64).png"
+    ],
+    "description": "our brand has expanded to several boutique locations throughout the city, consistently delivering luxury clothing that aligns with the modern woman's silhouette. Our commitment to quality and craftsmanship has never wavered. The inception of Iris was inspired by a gap in the Canadian fashion market, particularly for women seeking clothing that enhances their natural beauty while offering both style and comfort."
+  },
+
+  {
+    "id": 268,
+    "name": "Women Long Tunic",
+    "price": 85,
+    "category": "women",
+    "type": "Long Tunic",
+    "image": [
+      "img/women/wLongTunic/w-long-tunic (65).png",
+      "img/women/wLongTunic/w-long-tunic (66).png",
+      "img/women/wLongTunic/w-long-tunic (67).png",
+      "img/women/wLongTunic/w-long-tunic (68).png"
+    ],
+    "description": "our brand has expanded to several boutique locations throughout the city, consistently delivering luxury clothing that aligns with the modern woman's silhouette. Our commitment to quality and craftsmanship has never wavered. The inception of Iris was inspired by a gap in the Canadian fashion market, particularly for women seeking clothing that enhances their natural beauty while offering both style and comfort."
+  },
+
+  {
+    "id": 269,
+    "name": "Women Long Tunic",
+    "price": 95,
+    "category": "women",
+    "type": "Long Tunic",
+    "image": [
+      "img/women/wLongTunic/w-long-tunic (69).png",
+      "img/women/wLongTunic/w-long-tunic (70).png",
+      "img/women/wLongTunic/w-long-tunic (71).png",
+      "img/women/wLongTunic/w-long-tunic (72).png"
+    ],
+    "description": "our brand has expanded to several boutique locations throughout the city, consistently delivering luxury clothing that aligns with the modern woman's silhouette. Our commitment to quality and craftsmanship has never wavered. The inception of Iris was inspired by a gap in the Canadian fashion market, particularly for women seeking clothing that enhances their natural beauty while offering both style and comfort."
+  },
+
+  {
+    "id": 270,
+    "name": "Women Long Tunic",
+    "price": 90,
+    "category": "women",
+    "type": "Long Tunic",
+    "image": [
+      "img/women/wLongTunic/w-long-tunic (73).png",
+      "img/women/wLongTunic/w-long-tunic (74).png",
+      "img/women/wLongTunic/w-long-tunic (75).png",
+      "img/women/wLongTunic/w-long-tunic (76).png"
+    ],
+    "description": "our brand has expanded to several boutique locations throughout the city, consistently delivering luxury clothing that aligns with the modern woman's silhouette. Our commitment to quality and craftsmanship has never wavered. The inception of Iris was inspired by a gap in the Canadian fashion market, particularly for women seeking clothing that enhances their natural beauty while offering both style and comfort."
+  },
+
+  {
+    "id": 271,
+    "name": "Women Ear Ring",
+    "price": 85,
+    "category": "women",
+    "type": "Ear Ring",
+    "image": [
+      "img/women/wEarRing/ear-ring (1).png",
+      "img/women/wEarRing/ear-ring (2).png",
+      "img/women/wEarRing/ear-ring (3).png",
+      "img/women/wEarRing/ear-ring (4).png"
+    ],
+    "description": "our brand has expanded to several boutique locations throughout the city, consistently delivering luxury clothing that aligns with the modern woman's silhouette. Our commitment to quality and craftsmanship has never wavered. The inception of Iris was inspired by a gap in the Canadian fashion market, particularly for women seeking clothing that enhances their natural beauty while offering both style and comfort."
+  },
+
+  {
+    "id": 272,
+    "name": "Women Ear Ring",
+    "price": 90,
+    "category": "women",
+    "type": "Ear Ring",
+    "image": [
+      "img/women/wEarRing/ear-ring (5).png",
+      "img/women/wEarRing/ear-ring (6).png",
+      "img/women/wEarRing/ear-ring (7).png",
+      "img/women/wEarRing/ear-ring (8).png"
+    ],
+    "description": "our brand has expanded to several boutique locations throughout the city, consistently delivering luxury clothing that aligns with the modern woman's silhouette. Our commitment to quality and craftsmanship has never wavered. The inception of Iris was inspired by a gap in the Canadian fashion market, particularly for women seeking clothing that enhances their natural beauty while offering both style and comfort."
+  },
+
+  {
+    "id": 273,
+    "name": "Women Ear Ring",
+    "price": 80,
+    "category": "women",
+    "type": "Ear Ring",
+    "image": [
+      "img/women/wEarRing/ear-ring (9).png",
+      "img/women/wEarRing/ear-ring (10).png",
+      "img/women/wEarRing/ear-ring (11).png",
+      "img/women/wEarRing/ear-ring (12).png"
+    ],
+    "description": "our brand has expanded to several boutique locations throughout the city, consistently delivering luxury clothing that aligns with the modern woman's silhouette. Our commitment to quality and craftsmanship has never wavered. The inception of Iris was inspired by a gap in the Canadian fashion market, particularly for women seeking clothing that enhances their natural beauty while offering both style and comfort."
+  },
+
+  {
+    "id": 274,
+    "name": "Women Ear Ring",
+    "price": 80,
+    "category": "women",
+    "type": "Ear Ring",
+    "image": [
+      "img/women/wEarRing/ear-ring (13).png",
+      "img/women/wEarRing/ear-ring (14).png",
+      "img/women/wEarRing/ear-ring (15).png",
+      "img/women/wEarRing/ear-ring (16).png"
+    ],
+    "description": "our brand has expanded to several boutique locations throughout the city, consistently delivering luxury clothing that aligns with the modern woman's silhouette. Our commitment to quality and craftsmanship has never wavered. The inception of Iris was inspired by a gap in the Canadian fashion market, particularly for women seeking clothing that enhances their natural beauty while offering both style and comfort."
+  },
+
+  {
+    "id": 275,
+    "name": "Women Ear Ring",
+    "price": 95,
+    "category": "women",
+    "type": "Ear Ring",
+    "image": [
+      "img/women/wEarRing/ear-ring (17).png",
+      "img/women/wEarRing/ear-ring (18).png",
+      "img/women/wEarRing/ear-ring (19).png",
+      "img/women/wEarRing/ear-ring (20).png"
+    ],
+    "description": "our brand has expanded to several boutique locations throughout the city, consistently delivering luxury clothing that aligns with the modern woman's silhouette. Our commitment to quality and craftsmanship has never wavered. The inception of Iris was inspired by a gap in the Canadian fashion market, particularly for women seeking clothing that enhances their natural beauty while offering both style and comfort."
+  },
+
+  {
+    "id": 276,
+    "name": "Women Ear Ring",
+    "price": 85,
+    "category": "women",
+    "type": "Ear Ring",
+    "image": [
+      "img/women/wEarRing/ear-ring (21).png",
+      "img/women/wEarRing/ear-ring (22).png",
+      "img/women/wEarRing/ear-ring (23).png",
+      "img/women/wEarRing/ear-ring (24).png"
+    ],
+    "description": "our brand has expanded to several boutique locations throughout the city, consistently delivering luxury clothing that aligns with the modern woman's silhouette. Our commitment to quality and craftsmanship has never wavered. The inception of Iris was inspired by a gap in the Canadian fashion market, particularly for women seeking clothing that enhances their natural beauty while offering both style and comfort."
+  },
+
+
+  {
     "id": 8,
     "name": "Top",
     "price": 200,
@@ -914,80 +1353,7 @@
     "description": "our brand has expanded to several boutique locations throughout the city, consistently delivering luxury clothing that aligns with the modern woman's silhouette. Our commitment to quality and craftsmanship has never wavered. The inception of Iris was inspired by a gap in the Canadian fashion market, particularly for women seeking clothing that enhances their natural beauty while offering both style and comfort."
   },
 
-  {
-    "id": 62,
-    "name": "Gown",
-    "price": 175,
-    "category": "women",
-    "type": "Gown",
-    "image": [
-      "img/women/gown/gown (17).png",
-      "img/women/gown/gown (18).png",
-      "img/women/gown/gown (19).png",
-      "img/women/gown/gown (20).png"
-    ],
-    "description": "our brand has expanded to several boutique locations throughout the city, consistently delivering luxury clothing that aligns with the modern woman's silhouette. Our commitment to quality and craftsmanship has never wavered. The inception of Iris was inspired by a gap in the Canadian fashion market, particularly for women seeking clothing that enhances their natural beauty while offering both style and comfort."
-  },
-
-  {
-    "id": 63,
-    "name": "Gown",
-    "price": 150,
-    "category": "women",
-    "type": "Gown",
-    "image": [
-      "img/women/gown/gown (21).png",
-      "img/women/gown/gown (22).png",
-      "img/women/gown/gown (23).png",
-      "img/women/gown/gown (24).png"
-    ],
-    "description": "our brand has expanded to several boutique locations throughout the city, consistently delivering luxury clothing that aligns with the modern woman's silhouette. Our commitment to quality and craftsmanship has never wavered. The inception of Iris was inspired by a gap in the Canadian fashion market, particularly for women seeking clothing that enhances their natural beauty while offering both style and comfort."
-  },
-
-  {
-    "id": 64,
-    "name": "Shari",
-    "price": 120,
-    "category": "women",
-    "type": "Shari",
-    "image": [
-      "img/women/topKaftanShari/shari1.jpg",
-      "img/women/topKaftanShari/shari2.jpg",
-      "img/women/topKaftanShari/shari3.jpg",
-      "img/women/topKaftanShari/shari4.jpg"
-    ],
-    "description": "our brand has expanded to several boutique locations throughout the city, consistently delivering luxury clothing that aligns with the modern woman's silhouette. Our commitment to quality and craftsmanship has never wavered. The inception of Iris was inspired by a gap in the Canadian fashion market, particularly for women seeking clothing that enhances their natural beauty while offering both style and comfort."
-  },
-
-  {
-    "id": 65,
-    "name": "Shari",
-    "price": 140,
-    "category": "women",
-    "type": "Shari",
-    "image": [
-      "img/women/topKaftanShari/shari5.jpg",
-      "img/women/topKaftanShari/shari6.jpg",
-      "img/women/topKaftanShari/shari7.jpg",
-      "img/women/topKaftanShari/shari8.jpg"
-    ],
-    "description": "our brand has expanded to several boutique locations throughout the city, consistently delivering luxury clothing that aligns with the modern woman's silhouette. Our commitment to quality and craftsmanship has never wavered. The inception of Iris was inspired by a gap in the Canadian fashion market, particularly for women seeking clothing that enhances their natural beauty while offering both style and comfort."
-  },
-
-  {
-    "id": 66,
-    "name": "Shari",
-    "price": 135,
-    "category": "women",
-    "type": "Shari",
-    "image": [
-      "img/women/topKaftanShari/shari9.jpg",
-      "img/women/topKaftanShari/shari10.jpg",
-      "img/women/topKaftanShari/shari11.jpg",
-      "img/women/topKaftanShari/shari12.jpg"
-    ],
-    "description": "our brand has expanded to several boutique locations throughout the city, consistently delivering luxury clothing that aligns with the modern woman's silhouette. Our commitment to quality and craftsmanship has never wavered. The inception of Iris was inspired by a gap in the Canadian fashion market, particularly for women seeking clothing that enhances their natural beauty while offering both style and comfort."
-  },
+  
 
   {
     "id": 67,
@@ -2462,7 +2828,7 @@
     "id": 165,
     "name": "Kids Girls Jeans",
     "price": 120,
-    "category": "Kids Girls",
+    "category": "Kids",
     "type": "Kids Girls Jeans",
     "image": [
       "img/kids/Girls/G-Jeans/G-Jeans (1).png",
@@ -2477,7 +2843,7 @@
     "id": 166,
     "name": "Kids Girls Jeans",
     "price": 110,
-    "category": "Kids Girls",
+    "category": "Kids",
     "type": "Kids Girls Jeans",
     "image": [
       "img/kids/Girls/G-Jeans/G-Jeans (5).png",
@@ -2492,7 +2858,7 @@
     "id": 167,
     "name": "Kids Girls Jeans",
     "price": 105,
-    "category": "Kids Girls",
+    "category": "Kids",
     "type": "Kids Girls Jeans",
     "image": [
       "img/kids/Girls/G-Jeans/G-Jeans (9).png",
@@ -2507,7 +2873,7 @@
     "id": 168,
     "name": "Kids Girls Jeans",
     "price": 115,
-    "category": "Kids Girls",
+    "category": "Kids",
     "type": "Kids Girls Jeans",
     "image": [
       "img/kids/Girls/G-Jeans/G-Jeans (13).png",
@@ -2522,7 +2888,7 @@
     "id": 169,
     "name": "Kids Girls Jeans",
     "price": 107,
-    "category": "Kids Girls",
+    "category": "Kids",
     "type": "Kids Girls Jeans",
     "image": [
       "img/kids/Girls/G-Jeans/G-Jeans (17).png",
@@ -2537,7 +2903,7 @@
     "id": 170,
     "name": "Kids Girls Pants",
     "price": 50,
-    "category": "Kids Girls",
+    "category": "Kids",
     "type": "Kids Girls Pants",
     "image": [
       "img/kids/Girls/G-Pants/G-Pants (1).png",
@@ -2552,7 +2918,7 @@
     "id": 171,
     "name": "Kids Girls Pants",
     "price": 60,
-    "category": "Kids Girls",
+    "category": "Kids",
     "type": "Kids Girls Pants",
     "image": [
       "img/kids/Girls/G-Pants/G-Pants (5).png",
@@ -2567,7 +2933,7 @@
     "id": 172,
     "name": "Kids Girls Pants",
     "price": 45,
-    "category": "Kids Girls",
+    "category": "Kids",
     "type": "Kids Girls Pants",
     "image": [
       "img/kids/Girls/G-Pants/G-Pants (9).png",
@@ -2582,7 +2948,7 @@
     "id": 173,
     "name": "Kids Girls Pants",
     "price": 55,
-    "category": "Kids Girls",
+    "category": "Kids",
     "type": "Kids Girls Pants",
     "image": [
       "img/kids/Girls/G-Pants/G-Pants (13).png",
@@ -2597,7 +2963,7 @@
     "id": 174,
     "name": "Kids Girls Pants",
     "price": 65,
-    "category": "Kids Girls",
+    "category": "Kids",
     "type": "Kids Girls Pants",
     "image": [
       "img/kids/Girls/G-Pants/G-Pants (17).png",
@@ -2612,7 +2978,7 @@
     "id": 175,
     "name": "Kids Gift Pack",
     "price": 105,
-    "category": "Kids Girls",
+    "category": "Kids",
     "type": "Kids Gift Pack",
     "image": [
       "img/kids/Girls/babyGiftPack/baby-gift-pack (1).png",
@@ -2627,7 +2993,7 @@
     "id": 176,
     "name": "Kids Gift Pack",
     "price": 110,
-    "category": "Kids Girls",
+    "category": "Kids",
     "type": "Kids Gift Pack",
     "image": [
       "img/kids/Girls/babyGiftPack/baby-gift-pack (5).png",
@@ -2642,7 +3008,7 @@
     "id": 177,
     "name": "Kids Girls Frock",
     "price": 50,
-    "category": "Kids Girls",
+    "category": "Kids",
     "type": "Kids Girls Frock",
     "image": [
       "img/kids/Girls/gBabyFrock/w-baby-frock (1).png",
@@ -2657,7 +3023,7 @@
     "id": 178,
     "name": "Kids Girls Frock",
     "price": 55,
-    "category": "Kids Girls",
+    "category": "Kids",
     "type": "Kids Girls Frock",
     "image": [
       "img/kids/Girls/gBabyFrock/w-baby-frock (5).png",
@@ -2672,7 +3038,7 @@
     "id": 179,
     "name": "Kids Girls Frock",
     "price": 50,
-    "category": "Kids Girls",
+    "category": "Kids",
     "type": "Kids Girls Frock",
     "image": [
       "img/kids/Girls/gBabyFrock/w-baby-frock (9).png",
@@ -2687,7 +3053,7 @@
     "id": 180,
     "name": "Kids Girls Frock",
     "price": 64,
-    "category": "Kids Girls",
+    "category": "Kids",
     "type": "Kids Girls Frock",
     "image": [
       "img/kids/Girls/gBabyFrock/w-baby-frock (13).png",
@@ -2702,7 +3068,7 @@
     "id": 181,
     "name": "Kids Girls Frock",
     "price": 52,
-    "category": "Kids Girls",
+    "category": "Kids",
     "type": "Kids Girls Frock",
     "image": [
       "img/kids/Girls/gBabyFrock/w-baby-frock (17).png",
@@ -2717,7 +3083,7 @@
     "id": 182,
     "name": "Kids Girls Frock",
     "price": 58,
-    "category": "Kids Girls",
+    "category": "Kids",
     "type": "Kids Girls Frock",
     "image": [
       "img/kids/Girls/gBabyFrock/w-baby-frock (21).png",
@@ -2732,7 +3098,7 @@
     "id": 183,
     "name": "Kids Girls Frock",
     "price": 65,
-    "category": "Kids Girls",
+    "category": "Kids",
     "type": "Kids Girls Frock",
     "image": [
       "img/kids/Girls/gBabyFrock/w-baby-frock (25).png",
@@ -2747,7 +3113,7 @@
     "id": 184,
     "name": "Kids Girls Frock",
     "price": 45,
-    "category": "Kids Girls",
+    "category": "Kids",
     "type": "Kids Girls Frock",
     "image": [
       "img/kids/Girls/gBabyFrock/w-baby-frock (29).png",
@@ -2762,7 +3128,7 @@
     "id": 185,
     "name": "Kids Girls Frock",
     "price": 55,
-    "category": "Kids Girls",
+    "category": "Kids",
     "type": "Kids Girls Frock",
     "image": [
       "img/kids/Girls/gBabyFrock/w-baby-frock (33).png",
@@ -2777,7 +3143,7 @@
     "id": 186,
     "name": "Kids Girls Frock",
     "price": 62,
-    "category": "Kids Girls",
+    "category": "Kids",
     "type": "Kids Girls Frock",
     "image": [
       "img/kids/Girls/gBabyFrock/w-baby-frock (37).png",
@@ -2792,7 +3158,7 @@
     "id": 187,
     "name": "Kids Girls Frock",
     "price": 50,
-    "category": "Kids Girls",
+    "category": "Kids",
     "type": "Kids Girls Frock",
     "image": [
       "img/kids/Girls/gBabyFrock/w-baby-frock (41).png",
@@ -2807,7 +3173,7 @@
     "id": 188,
     "name": "Kids Girls Frock",
     "price": 45,
-    "category": "Kids Girls",
+    "category": "Kids",
     "type": "Kids Girls Frock",
     "image": [
       "img/kids/Girls/gBabyFrock/w-baby-frock (45).png",
@@ -2822,7 +3188,7 @@
     "id": 189,
     "name": "Kids Girls Frock",
     "price": 50,
-    "category": "Kids Girls",
+    "category": "Kids",
     "type": "Kids Girls Frock",
     "image": [
       "img/kids/Girls/gBabyFrock/w-baby-frock (49).png",
@@ -2837,7 +3203,7 @@
     "id": 190,
     "name": "Kids Girls Frock",
     "price": 50,
-    "category": "Kids Girls",
+    "category": "Kids",
     "type": "Kids Girls Frock",
     "image": [
       "img/kids/Girls/gBabyFrock/w-baby-frock (53).png",
@@ -2852,7 +3218,7 @@
     "id": 191,
     "name": "Kids Girls T-Shirt",
     "price": 35,
-    "category": "Kids Girls",
+    "category": "Kids",
     "type": "Kids Girls T-Shirt",
     "image": [
       "img/kids/Girls/gTShirt/g-tShirt (1).png",
@@ -2867,7 +3233,7 @@
     "id": 192,
     "name": "Kids Girls T-Shirt",
     "price": 45,
-    "category": "Kids Girls",
+    "category": "Kids",
     "type": "Kids Girls T-Shirt",
     "image": [
       "img/kids/Girls/gTShirt/g-tShirt (5).png",
@@ -2882,7 +3248,7 @@
     "id": 193,
     "name": "Kids Girls T-Shirt",
     "price": 40,
-    "category": "Kids Girls",
+    "category": "Kids",
     "type": "Kids Girls T-Shirt",
     "image": [
       "img/kids/Girls/gTShirt/g-tShirt (9).png",
@@ -2898,7 +3264,7 @@
     "id": 194,
     "name": "Kids Girls T-Shirt",
     "price": 42,
-    "category": "Kids Girls",
+    "category": "Kids",
     "type": "Kids Girls T-Shirt",
     "image": [
       "img/kids/Girls/gTShirt/g-tShirt (13).png",
@@ -2914,7 +3280,7 @@
     "id": 195,
     "name": "Kids Girls T-Shirt",
     "price": 45,
-    "category": "Kids Girls",
+    "category": "Kids",
     "type": "Kids Girls T-Shirt",
     "image": [
       "img/kids/Girls/gTShirt/g-tShirt (3).png",
@@ -3780,365 +4146,6 @@
     "description": "our brand has expanded to several boutique locations throughout the city, consistently delivering luxury clothing that aligns with the modern woman's silhouette. Our commitment to quality and craftsmanship has never wavered. The inception of Iris was inspired by a gap in the Canadian fashion market, particularly for women seeking clothing that enhances their natural beauty while offering both style and comfort."
   },
 
-  {
-    "id": 253,
-    "name": "Women Long Tunic",
-    "price": 110,
-    "category": "women",
-    "type": "Long Tunic",
-    "image": [
-      "img/women/wLongTunic/w-long-tunic (5).png",
-      "img/women/wLongTunic/w-long-tunic (6).png",
-      "img/women/wLongTunic/w-long-tunic (7).png",
-      "img/women/wLongTunic/w-long-tunic (8).png"
-    ],
-    "description": "our brand has expanded to several boutique locations throughout the city, consistently delivering luxury clothing that aligns with the modern woman's silhouette. Our commitment to quality and craftsmanship has never wavered. The inception of Iris was inspired by a gap in the Canadian fashion market, particularly for women seeking clothing that enhances their natural beauty while offering both style and comfort."
-  },
-
-  {
-    "id": 254,
-    "name": "Women Long Tunic",
-    "price": 105,
-    "category": "women",
-    "type": "Long Tunic",
-    "image": [
-      "img/women/wLongTunic/w-long-tunic (9).png",
-      "img/women/wLongTunic/w-long-tunic (10).png",
-      "img/women/wLongTunic/w-long-tunic (11).png",
-      "img/women/wLongTunic/w-long-tunic (12).png"
-    ],
-    "description": "our brand has expanded to several boutique locations throughout the city, consistently delivering luxury clothing that aligns with the modern woman's silhouette. Our commitment to quality and craftsmanship has never wavered. The inception of Iris was inspired by a gap in the Canadian fashion market, particularly for women seeking clothing that enhances their natural beauty while offering both style and comfort."
-  },
-
-  {
-    "id": 255,
-    "name": "Women Long Tunic",
-    "price": 95,
-    "category": "women",
-    "type": "Long Tunic",
-    "image": [
-      "img/women/wLongTunic/w-long-tunic (13).png",
-      "img/women/wLongTunic/w-long-tunic (14).png",
-      "img/women/wLongTunic/w-long-tunic (15).png",
-      "img/women/wLongTunic/w-long-tunic (16).png"
-    ],
-    "description": "our brand has expanded to several boutique locations throughout the city, consistently delivering luxury clothing that aligns with the modern woman's silhouette. Our commitment to quality and craftsmanship has never wavered. The inception of Iris was inspired by a gap in the Canadian fashion market, particularly for women seeking clothing that enhances their natural beauty while offering both style and comfort."
-  },
-
-  {
-    "id": 256,
-    "name": "Women Long Tunic",
-    "price": 115,
-    "category": "women",
-    "type": "Long Tunic",
-    "image": [
-      "img/women/wLongTunic/w-long-tunic (17).png",
-      "img/women/wLongTunic/w-long-tunic (18).png",
-      "img/women/wLongTunic/w-long-tunic (19).png",
-      "img/women/wLongTunic/w-long-tunic (20).png"
-    ],
-    "description": "our brand has expanded to several boutique locations throughout the city, consistently delivering luxury clothing that aligns with the modern woman's silhouette. Our commitment to quality and craftsmanship has never wavered. The inception of Iris was inspired by a gap in the Canadian fashion market, particularly for women seeking clothing that enhances their natural beauty while offering both style and comfort."
-  },
-
-  {
-    "id": 257,
-    "name": "Women Long Tunic",
-    "price": 90,
-    "category": "women",
-    "type": "Long Tunic",
-    "image": [
-      "img/women/wLongTunic/w-long-tunic (21).png",
-      "img/women/wLongTunic/w-long-tunic (22).png",
-      "img/women/wLongTunic/w-long-tunic (23).png",
-      "img/women/wLongTunic/w-long-tunic (24).png"
-    ],
-    "description": "our brand has expanded to several boutique locations throughout the city, consistently delivering luxury clothing that aligns with the modern woman's silhouette. Our commitment to quality and craftsmanship has never wavered. The inception of Iris was inspired by a gap in the Canadian fashion market, particularly for women seeking clothing that enhances their natural beauty while offering both style and comfort."
-  },
-
-  {
-    "id": 258,
-    "name": "Women Long Tunic",
-    "price": 90,
-    "category": "women",
-    "type": "Long Tunic",
-    "image": [
-      "img/women/wLongTunic/w-long-tunic (25).png",
-      "img/women/wLongTunic/w-long-tunic (26).png",
-      "img/women/wLongTunic/w-long-tunic (27).png",
-      "img/women/wLongTunic/w-long-tunic (28).png"
-    ],
-    "description": "our brand has expanded to several boutique locations throughout the city, consistently delivering luxury clothing that aligns with the modern woman's silhouette. Our commitment to quality and craftsmanship has never wavered. The inception of Iris was inspired by a gap in the Canadian fashion market, particularly for women seeking clothing that enhances their natural beauty while offering both style and comfort."
-  },
-
-  {
-    "id": 259,
-    "name": "Women Long Tunic",
-    "price": 92,
-    "category": "women",
-    "type": "Long Tunic",
-    "image": [
-      "img/women/wLongTunic/w-long-tunic (29).png",
-      "img/women/wLongTunic/w-long-tunic (30).png",
-      "img/women/wLongTunic/w-long-tunic (31).png",
-      "img/women/wLongTunic/w-long-tunic (32).png"
-    ],
-    "description": "our brand has expanded to several boutique locations throughout the city, consistently delivering luxury clothing that aligns with the modern woman's silhouette. Our commitment to quality and craftsmanship has never wavered. The inception of Iris was inspired by a gap in the Canadian fashion market, particularly for women seeking clothing that enhances their natural beauty while offering both style and comfort."
-  },
-
-  {
-    "id": 260,
-    "name": "Women Long Tunic",
-    "price": 120,
-    "category": "women",
-    "type": "Long Tunic",
-    "image": [
-      "img/women/wLongTunic/w-long-tunic (33).png",
-      "img/women/wLongTunic/w-long-tunic (34).png",
-      "img/women/wLongTunic/w-long-tunic (35).png",
-      "img/women/wLongTunic/w-long-tunic (36).png"
-    ],
-    "description": "our brand has expanded to several boutique locations throughout the city, consistently delivering luxury clothing that aligns with the modern woman's silhouette. Our commitment to quality and craftsmanship has never wavered. The inception of Iris was inspired by a gap in the Canadian fashion market, particularly for women seeking clothing that enhances their natural beauty while offering both style and comfort."
-  },
-
-  {
-    "id": 261,
-    "name": "Women Long Tunic",
-    "price": 110,
-    "category": "women",
-    "type": "Long Tunic",
-    "image": [
-      "img/women/wLongTunic/w-long-tunic (37).png",
-      "img/women/wLongTunic/w-long-tunic (38).png",
-      "img/women/wLongTunic/w-long-tunic (39).png",
-      "img/women/wLongTunic/w-long-tunic (40).png"
-    ],
-    "description": "our brand has expanded to several boutique locations throughout the city, consistently delivering luxury clothing that aligns with the modern woman's silhouette. Our commitment to quality and craftsmanship has never wavered. The inception of Iris was inspired by a gap in the Canadian fashion market, particularly for women seeking clothing that enhances their natural beauty while offering both style and comfort."
-  },
-
-  {
-    "id": 262,
-    "name": "Women Long Tunic",
-    "price": 105,
-    "category": "women",
-    "type": "Long Tunic",
-    "image": [
-      "img/women/wLongTunic/w-long-tunic (41).png",
-      "img/women/wLongTunic/w-long-tunic (42).png",
-      "img/women/wLongTunic/w-long-tunic (43).png",
-      "img/women/wLongTunic/w-long-tunic (44).png"
-    ],
-    "description": "our brand has expanded to several boutique locations throughout the city, consistently delivering luxury clothing that aligns with the modern woman's silhouette. Our commitment to quality and craftsmanship has never wavered. The inception of Iris was inspired by a gap in the Canadian fashion market, particularly for women seeking clothing that enhances their natural beauty while offering both style and comfort."
-  },
-
-  {
-    "id": 263,
-    "name": "Women Long Tunic",
-    "price": 125,
-    "category": "women",
-    "type": "Long Tunic",
-    "image": [
-      "img/women/wLongTunic/w-long-tunic (45).png",
-      "img/women/wLongTunic/w-long-tunic (46).png",
-      "img/women/wLongTunic/w-long-tunic (47).png",
-      "img/women/wLongTunic/w-long-tunic (48).png"
-    ],
-    "description": "our brand has expanded to several boutique locations throughout the city, consistently delivering luxury clothing that aligns with the modern woman's silhouette. Our commitment to quality and craftsmanship has never wavered. The inception of Iris was inspired by a gap in the Canadian fashion market, particularly for women seeking clothing that enhances their natural beauty while offering both style and comfort."
-  },
-
-  {
-    "id": 264,
-    "name": "Women Long Tunic",
-    "price": 120,
-    "category": "women",
-    "type": "Long Tunic",
-    "image": [
-      "img/women/wLongTunic/w-long-tunic (49).png",
-      "img/women/wLongTunic/w-long-tunic (50).png",
-      "img/women/wLongTunic/w-long-tunic (51).png",
-      "img/women/wLongTunic/w-long-tunic (52).png"
-    ],
-    "description": "our brand has expanded to several boutique locations throughout the city, consistently delivering luxury clothing that aligns with the modern woman's silhouette. Our commitment to quality and craftsmanship has never wavered. The inception of Iris was inspired by a gap in the Canadian fashion market, particularly for women seeking clothing that enhances their natural beauty while offering both style and comfort."
-  },
-
-  {
-    "id": 265,
-    "name": "Women Long Tunic",
-    "price": 110,
-    "category": "women",
-    "type": "Long Tunic",
-    "image": [
-      "img/women/wLongTunic/w-long-tunic (53).png",
-      "img/women/wLongTunic/w-long-tunic (54).png",
-      "img/women/wLongTunic/w-long-tunic (55).png",
-      "img/women/wLongTunic/w-long-tunic (56).png"
-    ],
-    "description": "our brand has expanded to several boutique locations throughout the city, consistently delivering luxury clothing that aligns with the modern woman's silhouette. Our commitment to quality and craftsmanship has never wavered. The inception of Iris was inspired by a gap in the Canadian fashion market, particularly for women seeking clothing that enhances their natural beauty while offering both style and comfort."
-  },
-
-  {
-    "id": 266,
-    "name": "Women Long Tunic",
-    "price": 130,
-    "category": "women",
-    "type": "Long Tunic",
-    "image": [
-      "img/women/wLongTunic/w-long-tunic (57).png",
-      "img/women/wLongTunic/w-long-tunic (58).png",
-      "img/women/wLongTunic/w-long-tunic (59).png",
-      "img/women/wLongTunic/w-long-tunic (60).png"
-    ],
-    "description": "our brand has expanded to several boutique locations throughout the city, consistently delivering luxury clothing that aligns with the modern woman's silhouette. Our commitment to quality and craftsmanship has never wavered. The inception of Iris was inspired by a gap in the Canadian fashion market, particularly for women seeking clothing that enhances their natural beauty while offering both style and comfort."
-  },
-
-  {
-    "id": 267,
-    "name": "Women Long Tunic",
-    "price": 90,
-    "category": "women",
-    "type": "Long Tunic",
-    "image": [
-      "img/women/wLongTunic/w-long-tunic (61).png",
-      "img/women/wLongTunic/w-long-tunic (62).png",
-      "img/women/wLongTunic/w-long-tunic (63).png",
-      "img/women/wLongTunic/w-long-tunic (64).png"
-    ],
-    "description": "our brand has expanded to several boutique locations throughout the city, consistently delivering luxury clothing that aligns with the modern woman's silhouette. Our commitment to quality and craftsmanship has never wavered. The inception of Iris was inspired by a gap in the Canadian fashion market, particularly for women seeking clothing that enhances their natural beauty while offering both style and comfort."
-  },
-
-  {
-    "id": 268,
-    "name": "Women Long Tunic",
-    "price": 85,
-    "category": "women",
-    "type": "Long Tunic",
-    "image": [
-      "img/women/wLongTunic/w-long-tunic (65).png",
-      "img/women/wLongTunic/w-long-tunic (66).png",
-      "img/women/wLongTunic/w-long-tunic (67).png",
-      "img/women/wLongTunic/w-long-tunic (68).png"
-    ],
-    "description": "our brand has expanded to several boutique locations throughout the city, consistently delivering luxury clothing that aligns with the modern woman's silhouette. Our commitment to quality and craftsmanship has never wavered. The inception of Iris was inspired by a gap in the Canadian fashion market, particularly for women seeking clothing that enhances their natural beauty while offering both style and comfort."
-  },
-
-  {
-    "id": 269,
-    "name": "Women Long Tunic",
-    "price": 95,
-    "category": "women",
-    "type": "Long Tunic",
-    "image": [
-      "img/women/wLongTunic/w-long-tunic (69).png",
-      "img/women/wLongTunic/w-long-tunic (70).png",
-      "img/women/wLongTunic/w-long-tunic (71).png",
-      "img/women/wLongTunic/w-long-tunic (72).png"
-    ],
-    "description": "our brand has expanded to several boutique locations throughout the city, consistently delivering luxury clothing that aligns with the modern woman's silhouette. Our commitment to quality and craftsmanship has never wavered. The inception of Iris was inspired by a gap in the Canadian fashion market, particularly for women seeking clothing that enhances their natural beauty while offering both style and comfort."
-  },
-
-  {
-    "id": 270,
-    "name": "Women Long Tunic",
-    "price": 90,
-    "category": "women",
-    "type": "Long Tunic",
-    "image": [
-      "img/women/wLongTunic/w-long-tunic (73).png",
-      "img/women/wLongTunic/w-long-tunic (74).png",
-      "img/women/wLongTunic/w-long-tunic (75).png",
-      "img/women/wLongTunic/w-long-tunic (76).png"
-    ],
-    "description": "our brand has expanded to several boutique locations throughout the city, consistently delivering luxury clothing that aligns with the modern woman's silhouette. Our commitment to quality and craftsmanship has never wavered. The inception of Iris was inspired by a gap in the Canadian fashion market, particularly for women seeking clothing that enhances their natural beauty while offering both style and comfort."
-  },
-
-  {
-    "id": 271,
-    "name": "Women Ear Ring",
-    "price": 85,
-    "category": "women",
-    "type": "Ear Ring",
-    "image": [
-      "img/women/wEarRing/ear-ring (1).png",
-      "img/women/wEarRing/ear-ring (2).png",
-      "img/women/wEarRing/ear-ring (3).png",
-      "img/women/wEarRing/ear-ring (4).png"
-    ],
-    "description": "our brand has expanded to several boutique locations throughout the city, consistently delivering luxury clothing that aligns with the modern woman's silhouette. Our commitment to quality and craftsmanship has never wavered. The inception of Iris was inspired by a gap in the Canadian fashion market, particularly for women seeking clothing that enhances their natural beauty while offering both style and comfort."
-  },
-
-  {
-    "id": 272,
-    "name": "Women Ear Ring",
-    "price": 90,
-    "category": "women",
-    "type": "Ear Ring",
-    "image": [
-      "img/women/wEarRing/ear-ring (5).png",
-      "img/women/wEarRing/ear-ring (6).png",
-      "img/women/wEarRing/ear-ring (7).png",
-      "img/women/wEarRing/ear-ring (8).png"
-    ],
-    "description": "our brand has expanded to several boutique locations throughout the city, consistently delivering luxury clothing that aligns with the modern woman's silhouette. Our commitment to quality and craftsmanship has never wavered. The inception of Iris was inspired by a gap in the Canadian fashion market, particularly for women seeking clothing that enhances their natural beauty while offering both style and comfort."
-  },
-
-  {
-    "id": 273,
-    "name": "Women Ear Ring",
-    "price": 80,
-    "category": "women",
-    "type": "Ear Ring",
-    "image": [
-      "img/women/wEarRing/ear-ring (9).png",
-      "img/women/wEarRing/ear-ring (10).png",
-      "img/women/wEarRing/ear-ring (11).png",
-      "img/women/wEarRing/ear-ring (12).png"
-    ],
-    "description": "our brand has expanded to several boutique locations throughout the city, consistently delivering luxury clothing that aligns with the modern woman's silhouette. Our commitment to quality and craftsmanship has never wavered. The inception of Iris was inspired by a gap in the Canadian fashion market, particularly for women seeking clothing that enhances their natural beauty while offering both style and comfort."
-  },
-
-  {
-    "id": 274,
-    "name": "Women Ear Ring",
-    "price": 80,
-    "category": "women",
-    "type": "Ear Ring",
-    "image": [
-      "img/women/wEarRing/ear-ring (13).png",
-      "img/women/wEarRing/ear-ring (14).png",
-      "img/women/wEarRing/ear-ring (15).png",
-      "img/women/wEarRing/ear-ring (16).png"
-    ],
-    "description": "our brand has expanded to several boutique locations throughout the city, consistently delivering luxury clothing that aligns with the modern woman's silhouette. Our commitment to quality and craftsmanship has never wavered. The inception of Iris was inspired by a gap in the Canadian fashion market, particularly for women seeking clothing that enhances their natural beauty while offering both style and comfort."
-  },
-
-  {
-    "id": 275,
-    "name": "Women Ear Ring",
-    "price": 95,
-    "category": "women",
-    "type": "Ear Ring",
-    "image": [
-      "img/women/wEarRing/ear-ring (17).png",
-      "img/women/wEarRing/ear-ring (18).png",
-      "img/women/wEarRing/ear-ring (19).png",
-      "img/women/wEarRing/ear-ring (20).png"
-    ],
-    "description": "our brand has expanded to several boutique locations throughout the city, consistently delivering luxury clothing that aligns with the modern woman's silhouette. Our commitment to quality and craftsmanship has never wavered. The inception of Iris was inspired by a gap in the Canadian fashion market, particularly for women seeking clothing that enhances their natural beauty while offering both style and comfort."
-  },
-
-  {
-    "id": 276,
-    "name": "Women Ear Ring",
-    "price": 85,
-    "category": "women",
-    "type": "Ear Ring",
-    "image": [
-      "img/women/wEarRing/ear-ring (21).png",
-      "img/women/wEarRing/ear-ring (22).png",
-      "img/women/wEarRing/ear-ring (23).png",
-      "img/women/wEarRing/ear-ring (24).png"
-    ],
-    "description": "our brand has expanded to several boutique locations throughout the city, consistently delivering luxury clothing that aligns with the modern woman's silhouette. Our commitment to quality and craftsmanship has never wavered. The inception of Iris was inspired by a gap in the Canadian fashion market, particularly for women seeking clothing that enhances their natural beauty while offering both style and comfort."
-  },
 
   {
     "id": 277,
@@ -5263,7 +5270,764 @@
       "img/women/womenKoti/women-koti (20).png"
     ],
     "description": "our brand has expanded to several boutique locations throughout the city, consistently delivering luxury clothing that aligns with the modern woman's silhouette. Our commitment to quality and craftsmanship has never wavered. The inception of Iris was inspired by a gap in the Canadian fashion market, particularly for women seeking clothing that enhances their natural beauty while offering both style and comfort."
+  },
+
+
+
+  {
+"id": 351,
+    "name": "Kids Bath Toys",
+    "price": 45,
+    "category": "flat",
+    "type": "Kids Bath Toys",
+    "image": [
+      "img/kids/Boys/bathToys/bath-toys (1).png",
+      "img/kids/Boys/bathToys/bath-toys (2).png",
+      "img/kids/Boys/bathToys/bath-toys (3).png",
+      "img/kids/Boys/bathToys/bath-toys (4).png"
+    ],
+    "description": "our brand has expanded to several boutique locations throughout the city, consistently delivering luxury clothing that aligns with the modern woman's silhouette. Our commitment to quality and craftsmanship has never wavered. The inception of Iris was inspired by a gap in the Canadian fashion market, particularly for women seeking clothing that enhances their natural beauty while offering both style and comfort."
+  },
+
+  {
+    "id": 352,
+    "name": "Kids Bath Toys",
+    "price": 45,
+    "category": "flat",
+    "type": "Kids Bath Toys",
+    "image": [
+      "img/kids/Boys/bathToys/bath-toys (5).png",
+      "img/kids/Boys/bathToys/bath-toys (6).png",
+      "img/kids/Boys/bathToys/bath-toys (7).png",
+      "img/kids/Boys/bathToys/bath-toys (8).png"
+    ],
+    "description": "our brand has expanded to several boutique locations throughout the city, consistently delivering luxury clothing that aligns with the modern woman's silhouette. Our commitment to quality and craftsmanship has never wavered. The inception of Iris was inspired by a gap in the Canadian fashion market, particularly for women seeking clothing that enhances their natural beauty while offering both style and comfort."
+  },
+
+  {
+    "id": 353,
+    "name": "Kids Bath Toys",
+    "price": 45,
+    "category": "flat",
+    "type": "Kids Bath Toys",
+    "image": [
+      "img/kids/Boys/bathToys/bath-toys (9).png",
+      "img/kids/Boys/bathToys/bath-toys (10).png",
+      "img/kids/Boys/bathToys/bath-toys (11).png",
+      "img/kids/Boys/bathToys/bath-toys (12).png"
+    ],
+    "description": "our brand has expanded to several boutique locations throughout the city, consistently delivering luxury clothing that aligns with the modern woman's silhouette. Our commitment to quality and craftsmanship has never wavered. The inception of Iris was inspired by a gap in the Canadian fashion market, particularly for women seeking clothing that enhances their natural beauty while offering both style and comfort."
+  },
+
+  {
+    "id": 354,
+    "name": "Kids Bath Toys",
+    "price": 42,
+    "category": "flat",
+    "type": "Kids Bath Toys",
+    "image": [
+      "img/kids/Boys/bathToys/bath-toys (13).png",
+      "img/kids/Boys/bathToys/bath-toys (14).png",
+      "img/kids/Boys/bathToys/bath-toys (15).png",
+      "img/kids/Boys/bathToys/bath-toys (16).png"
+    ],
+    "description": "our brand has expanded to several boutique locations throughout the city, consistently delivering luxury clothing that aligns with the modern woman's silhouette. Our commitment to quality and craftsmanship has never wavered. The inception of Iris was inspired by a gap in the Canadian fashion market, particularly for women seeking clothing that enhances their natural beauty while offering both style and comfort."
+  },
+
+  {
+    "id": 355,
+    "name": "Kids Bath Toys",
+    "price": 42,
+    "category": "flat",
+    "type": "Kids Bath Toys",
+    "image": [
+      "img/kids/Boys/bathToys/bath-toys (17).png",
+      "img/kids/Boys/bathToys/bath-toys (18).png",
+      "img/kids/Boys/bathToys/bath-toys (19).png",
+      "img/kids/Boys/bathToys/bath-toys (20).png"
+    ],
+    "description": "our brand has expanded to several boutique locations throughout the city, consistently delivering luxury clothing that aligns with the modern woman's silhouette. Our commitment to quality and craftsmanship has never wavered. The inception of Iris was inspired by a gap in the Canadian fashion market, particularly for women seeking clothing that enhances their natural beauty while offering both style and comfort."
+  },
+
+
+  {
+    "id": 360,
+    "name": "Kids Bath Toys",
+    "price": 40,
+    "category": "flat",
+    "type": "Kids Bath Toys",
+    "image": [
+      "img/kids/Boys/bathToys/bath-toys (37).png",
+      "img/kids/Boys/bathToys/bath-toys (38).png",
+      "img/kids/Boys/bathToys/bath-toys (39).png",
+      "img/kids/Boys/bathToys/bath-toys (40).png"
+    ],
+    "description": "our brand has expanded to several boutique locations throughout the city, consistently delivering luxury clothing that aligns with the modern woman's silhouette. Our commitment to quality and craftsmanship has never wavered. The inception of Iris was inspired by a gap in the Canadian fashion market, particularly for women seeking clothing that enhances their natural beauty while offering both style and comfort."
+  },
+
+
+  {
+    "id": 361,
+    "name": "Women Shoes",
+    "price": 40,
+    "category": "flat",
+    "type": "Women Shoes",
+    "image": [
+      "img/women/womenShoes/womenShoes (1).png",
+      "img/women/womenShoes/womenShoes (2).png",
+      "img/women/womenShoes/womenShoes (3).png",
+      "img/women/womenShoes/womenShoes (4).png"
+    ],
+    "description": "our brand has expanded to several boutique locations throughout the city, consistently delivering luxury clothing that aligns with the modern woman's silhouette. Our commitment to quality and craftsmanship has never wavered. The inception of Iris was inspired by a gap in the Canadian fashion market, particularly for women seeking clothing that enhances their natural beauty while offering both style and comfort."
+  },
+
+  {
+    "id": 362,
+    "name": "Women Shoes",
+    "price": 40,
+    "category": "flat",
+    "type": "Women Shoes",
+    "image": [
+      "img/women/womenShoes/womenShoes (5).png",
+      "img/women/womenShoes/womenShoes (6).png",
+      "img/women/womenShoes/womenShoes (7).png",
+      "img/women/womenShoes/womenShoes (8).png"
+    ],
+    "description": "our brand has expanded to several boutique locations throughout the city, consistently delivering luxury clothing that aligns with the modern woman's silhouette. Our commitment to quality and craftsmanship has never wavered. The inception of Iris was inspired by a gap in the Canadian fashion market, particularly for women seeking clothing that enhances their natural beauty while offering both style and comfort."
+  },
+
+  {
+    "id": 363,
+    "name": "Women Shoes",
+    "price": 43,
+    "category": "flat",
+    "type": "Women Shoes",
+    "image": [
+      "img/women/womenShoes/womenShoes (9).png",
+      "img/women/womenShoes/womenShoes (10).png",
+      "img/women/womenShoes/womenShoes (11).png",
+      "img/women/womenShoes/womenShoes (12).png"
+    ],
+    "description": "our brand has expanded to several boutique locations throughout the city, consistently delivering luxury clothing that aligns with the modern woman's silhouette. Our commitment to quality and craftsmanship has never wavered. The inception of Iris was inspired by a gap in the Canadian fashion market, particularly for women seeking clothing that enhances their natural beauty while offering both style and comfort."
+  },
+
+  {
+    "id": 364,
+    "name": "Women Shoes",
+    "price": 35,
+    "category": "flat",
+    "type": "Women Shoes",
+    "image": [
+      "img/women/womenShoes/womenShoes (13).png",
+      "img/women/womenShoes/womenShoes (14).png",
+      "img/women/womenShoes/womenShoes (15).png",
+      "img/women/womenShoes/womenShoes (16).png"
+    ],
+    "description": "our brand has expanded to several boutique locations throughout the city, consistently delivering luxury clothing that aligns with the modern woman's silhouette. Our commitment to quality and craftsmanship has never wavered. The inception of Iris was inspired by a gap in the Canadian fashion market, particularly for women seeking clothing that enhances their natural beauty while offering both style and comfort."
+  },
+
+  {
+    "id": 365,
+    "name": "Women Shoes",
+    "price": 45,
+    "category": "flat",
+    "type": "Women Shoes",
+    "image": [
+      "img/women/womenShoes/womenShoes (17).png",
+      "img/women/womenShoes/womenShoes (18).png",
+      "img/women/womenShoes/womenShoes (19).png",
+      "img/women/womenShoes/womenShoes (20).png"
+    ],
+    "description": "our brand has expanded to several boutique locations throughout the city, consistently delivering luxury clothing that aligns with the modern woman's silhouette. Our commitment to quality and craftsmanship has never wavered. The inception of Iris was inspired by a gap in the Canadian fashion market, particularly for women seeking clothing that enhances their natural beauty while offering both style and comfort."
+  },
+
+
+  {
+    "id": 366,
+    "name": "Women Long Tunic",
+    "price": 45,
+    "category": "flat",
+    "type": "Long Tunic",
+    "image": [
+      "img/women/wLongTunic/w-long-tunic (1).png",
+      "img/women/wLongTunic/w-long-tunic (2).png",
+      "img/women/wLongTunic/w-long-tunic (3).png",
+      "img/women/wLongTunic/w-long-tunic (4).png"
+    ],
+    "description": "our brand has expanded to several boutique locations throughout the city, consistently delivering luxury clothing that aligns with the modern woman's silhouette. Our commitment to quality and craftsmanship has never wavered. The inception of Iris was inspired by a gap in the Canadian fashion market, particularly for women seeking clothing that enhances their natural beauty while offering both style and comfort."
+  },
+
+
+  {
+    "id": 367,
+    "name": "Women Ear Ring",
+    "price": 105,
+    "category": "flat",
+    "type": "Ear Ring",
+    "image": [
+      "img/women/wEarRing/ear-ring (25).png",
+      "img/women/wEarRing/ear-ring (26).png",
+      "img/women/wEarRing/ear-ring (27).png",
+      "img/women/wEarRing/ear-ring (28).png"
+    ],
+    "description": "our brand has expanded to several boutique locations throughout the city, consistently delivering luxury clothing that aligns with the modern woman's silhouette. Our commitment to quality and craftsmanship has never wavered. The inception of Iris was inspired by a gap in the Canadian fashion market, particularly for women seeking clothing that enhances their natural beauty while offering both style and comfort."
+  },
+
+  {
+    "id": 368,
+    "name": "Women Ear Ring",
+    "price": 55,
+    "category": "flat",
+    "type": "Ear Ring",
+    "image": [
+      "img/women/wEarRing/ear-ring (29).png",
+      "img/women/wEarRing/ear-ring (30).png",
+      "img/women/wEarRing/ear-ring (31).png",
+      "img/women/wEarRing/ear-ring (32).png"
+    ],
+    "description": "our brand has expanded to several boutique locations throughout the city, consistently delivering luxury clothing that aligns with the modern woman's silhouette. Our commitment to quality and craftsmanship has never wavered. The inception of Iris was inspired by a gap in the Canadian fashion market, particularly for women seeking clothing that enhances their natural beauty while offering both style and comfort."
+  },
+
+
+  {
+      "id": 369,
+    "name": "Women Hand Bag",
+    "price": 30,
+    "category": "flat",
+    "type": "Hand Bag",
+    "image": [
+      "img/women/wHandBag/w-Hand-Bag (69).png",
+      "img/women/wHandBag/w-Hand-Bag (70).png",
+      "img/women/wHandBag/w-Hand-Bag (71).png",
+      "img/women/wHandBag/w-Hand-Bag (72).png"
+    ],
+    "description": "our brand has expanded to several boutique locations throughout the city, consistently delivering luxury clothing that aligns with the modern woman's silhouette. Our commitment to quality and craftsmanship has never wavered. The inception of Iris was inspired by a gap in the Canadian fashion market, particularly for women seeking clothing that enhances their natural beauty while offering both style and comfort."
+  },
+
+  {
+      "id": 370,
+    "name": "Women Hand Bag",
+    "price": 30,
+    "category": "flat",
+    "type": "Hand Bag",
+    "image": [
+      "img/women/wHandBag/w-Hand-Bag (73).png",
+      "img/women/wHandBag/w-Hand-Bag (74).png",
+      "img/women/wHandBag/w-Hand-Bag (75).png",
+      "img/women/wHandBag/w-Hand-Bag (76).png"
+    ],
+    "description": "our brand has expanded to several boutique locations throughout the city, consistently delivering luxury clothing that aligns with the modern woman's silhouette. Our commitment to quality and craftsmanship has never wavered. The inception of Iris was inspired by a gap in the Canadian fashion market, particularly for women seeking clothing that enhances their natural beauty while offering both style and comfort."
+  },
+
+
+  {
+    "id": 371,
+    "name": "Women Tunic With Shrug",
+    "price": 60,
+    "category": "flat",
+    "type": "Tunic With Shrug",
+    "image": [
+      "img/women/wTunicShrug/w-Tunic-with-shrug (5).png",
+      "img/women/wTunicShrug/w-Tunic-with-shrug (6).png",
+      "img/women/wTunicShrug/w-Tunic-with-shrug (7).png",
+      "img/women/wTunicShrug/w-Tunic-with-shrug (8).png"
+    ],
+    "description": "our brand has expanded to several boutique locations throughout the city, consistently delivering luxury clothing that aligns with the modern woman's silhouette. Our commitment to quality and craftsmanship has never wavered. The inception of Iris was inspired by a gap in the Canadian fashion market, particularly for women seeking clothing that enhances their natural beauty while offering both style and comfort."
+  },
+
+  {
+    "id": 372,
+    "name": "Women Tunic With Shrug",
+    "price": 60,
+    "category": "flat",
+    "type": "Tunic With Shrug",
+    "image": [
+      "img/women/wTunicShrug/w-Tunic-with-shrug (9).png",
+      "img/women/wTunicShrug/w-Tunic-with-shrug (10).png",
+      "img/women/wTunicShrug/w-Tunic-with-shrug (11).png",
+      "img/women/wTunicShrug/w-Tunic-with-shrug (12).png"
+    ],
+    "description": "our brand has expanded to several boutique locations throughout the city, consistently delivering luxury clothing that aligns with the modern woman's silhouette. Our commitment to quality and craftsmanship has never wavered. The inception of Iris was inspired by a gap in the Canadian fashion market, particularly for women seeking clothing that enhances their natural beauty while offering both style and comfort."
+  },
+
+  {
+    "id": 373,
+    "name": "Women Tunic With Shrug",
+    "price": 51,
+    "category": "flat",
+    "type": "Tunic With Shrug",
+    "image": [
+      "img/women/wTunicShrug/w-Tunic-with-shrug (13).png",
+      "img/women/wTunicShrug/w-Tunic-with-shrug (14).png",
+      "img/women/wTunicShrug/w-Tunic-with-shrug (15).png",
+      "img/women/wTunicShrug/w-Tunic-with-shrug (16).png"
+    ],
+    "description": "our brand has expanded to several boutique locations throughout the city, consistently delivering luxury clothing that aligns with the modern woman's silhouette. Our commitment to quality and craftsmanship has never wavered. The inception of Iris was inspired by a gap in the Canadian fashion market, particularly for women seeking clothing that enhances their natural beauty while offering both style and comfort."
+  },
+
+
+  {
+    "id": 374,
+    "name": "Men Waistcoat",
+    "price": 45,
+    "category": "flat",
+    "type": "Men Waistcoat",
+    "image": [
+      "img/men/menWaistcoat/men-waistcoat (53).png",
+      "img/men/menWaistcoat/men-waistcoat (54).png",
+      "img/men/menWaistcoat/men-waistcoat (55).png",
+      "img/men/menWaistcoat/men-waistcoat (56).png"
+    ],
+    "description": "our brand has expanded to several boutique locations throughout the city, consistently delivering luxury clothing that aligns with the modern woman's silhouette. Our commitment to quality and craftsmanship has never wavered. The inception of Iris was inspired by a gap in the Canadian fashion market, particularly for women seeking clothing that enhances their natural beauty while offering both style and comfort."
+  },
+
+  {
+    "id": 375,
+    "name": "Men Shorts",
+    "price": 30,
+    "category": "flat",
+    "type": "Men Shorts",
+    "image": [
+      "img/men/menShorts/men-shorts (1).png",
+      "img/men/menShorts/men-shorts (2).png",
+      "img/men/menShorts/men-shorts (3).png",
+      "img/men/menShorts/men-shorts (4).png"
+    ],
+    "description": "our brand has expanded to several boutique locations throughout the city, consistently delivering luxury clothing that aligns with the modern woman's silhouette. Our commitment to quality and craftsmanship has never wavered. The inception of Iris was inspired by a gap in the Canadian fashion market, particularly for women seeking clothing that enhances their natural beauty while offering both style and comfort."
+  },
+
+
+  {
+    "id": 376,
+    "name": "Men Pajama",
+    "price": 22,
+    "category": "flat",
+    "type": "Men Pajama",
+    "image": [
+      "img/men/menPajamas/men-pajamas (21).png",
+      "img/men/menPajamas/men-pajamas (22).png",
+      "img/men/menPajamas/men-pajamas (23).png",
+      "img/men/menPajamas/men-pajamas (24).png"
+    ],
+    "description": "our brand has expanded to several boutique locations throughout the city, consistently delivering luxury clothing that aligns with the modern woman's silhouette. Our commitment to quality and craftsmanship has never wavered. The inception of Iris was inspired by a gap in the Canadian fashion market, particularly for women seeking clothing that enhances their natural beauty while offering both style and comfort."
+  },
+
+  {
+    "id": 377,
+    "name": "Men Pajama",
+    "price": 18,
+    "category": "flat",
+    "type": "Men Pajama",
+    "image": [
+      "img/men/menPajamas/men-pajamas (25).png",
+      "img/men/menPajamas/men-pajamas (26).png",
+      "img/men/menPajamas/men-pajamas (27).png",
+      "img/men/menPajamas/men-pajamas (28).png"
+    ],
+    "description": "our brand has expanded to several boutique locations throughout the city, consistently delivering luxury clothing that aligns with the modern woman's silhouette. Our commitment to quality and craftsmanship has never wavered. The inception of Iris was inspired by a gap in the Canadian fashion market, particularly for women seeking clothing that enhances their natural beauty while offering both style and comfort."
+  },
+
+  {
+    "id": 378,
+    "name": "Men Waistcoat",
+    "price": 45,
+    "category": "flat",
+    "type": "Men Waistcoat",
+    "image": [
+      "img/men/menWaistcoat/men-waistcoat (1).png",
+      "img/men/menWaistcoat/men-waistcoat (2).png",
+      "img/men/menWaistcoat/men-waistcoat (3).png",
+      "img/men/menWaistcoat/men-waistcoat (4).png"
+    ],
+    "description": "our brand has expanded to several boutique locations throughout the city, consistently delivering luxury clothing that aligns with the modern woman's silhouette. Our commitment to quality and craftsmanship has never wavered. The inception of Iris was inspired by a gap in the Canadian fashion market, particularly for women seeking clothing that enhances their natural beauty while offering both style and comfort."
+  },
+
+  {
+    "id": 379,
+    "name": "Men Waistcoat",
+    "price": 45,
+    "category": "flat",
+    "type": "Men Waistcoat",
+    "image": [
+      "img/men/menWaistcoat/men-waistcoat (5).png",
+      "img/men/menWaistcoat/men-waistcoat (6).png",
+      "img/men/menWaistcoat/men-waistcoat (7).png",
+      "img/men/menWaistcoat/men-waistcoat (8).png"
+    ],
+    "description": "our brand has expanded to several boutique locations throughout the city, consistently delivering luxury clothing that aligns with the modern woman's silhouette. Our commitment to quality and craftsmanship has never wavered. The inception of Iris was inspired by a gap in the Canadian fashion market, particularly for women seeking clothing that enhances their natural beauty while offering both style and comfort."
+  },
+
+
+  {
+    "id": 380,
+    "name": "Panjabi",
+    "price": 60,
+    "category": "flat",
+    "type": "Men Panjabi",
+    "image": [
+      "img/men/panjabi/panjabi (13).png",
+      "img/men/panjabi/panjabi (14).png",
+      "img/men/panjabi/panjabi (15).png",
+      "img/men/panjabi/panjabi (16).png"
+    ],
+    "description": "our brand has expanded to several boutique locations throughout the city, consistently delivering luxury clothing that aligns with the modern woman's silhouette. Our commitment to quality and craftsmanship has never wavered. The inception of Iris was inspired by a gap in the Canadian fashion market, particularly for women seeking clothing that enhances their natural beauty while offering both style and comfort."
+  },
+
+  {
+    "id": 381,
+    "name": "Panjabi",
+    "price": 40,
+    "category": "flat",
+    "type": "Men Panjabi",
+    "image": [
+      "img/men/panjabi/panjabi (17).png",
+      "img/men/panjabi/panjabi (18).png",
+      "img/men/panjabi/panjabi (19).png",
+      "img/men/panjabi/panjabi (20).png"
+    ],
+    "description": "our brand has expanded to several boutique locations throughout the city, consistently delivering luxury clothing that aligns with the modern woman's silhouette. Our commitment to quality and craftsmanship has never wavered. The inception of Iris was inspired by a gap in the Canadian fashion market, particularly for women seeking clothing that enhances their natural beauty while offering both style and comfort."
+  },
+
+  {
+    "id": 382,
+    "name": "Men Shoes",
+    "price": 110,
+    "category": "flat",
+    "type": "Men Shoes",
+    "image": [
+      "img/men/shoes/men-shoes (1).png",
+      "img/men/shoes/men-shoes (2).png",
+      "img/men/shoes/men-shoes (3).png",
+      "img/men/shoes/men-shoes (4).png"
+    ],
+    "description": "our brand has expanded to several boutique locations throughout the city, consistently delivering luxury clothing that aligns with the modern woman's silhouette. Our commitment to quality and craftsmanship has never wavered. The inception of Iris was inspired by a gap in the Canadian fashion market, particularly for women seeking clothing that enhances their natural beauty while offering both style and comfort."
+  },
+
+  {
+    "id": 383,
+    "name": "Men Shoes",
+    "price": 70,
+    "category": "flat",
+    "type": "Men Shoes",
+    "image": [
+      "img/men/shoes/men-shoes (5).png",
+      "img/men/shoes/men-shoes (6).png",
+      "img/men/shoes/men-shoes (7).png",
+      "img/men/shoes/men-shoes (8).png"
+    ],
+    "description": "our brand has expanded to several boutique locations throughout the city, consistently delivering luxury clothing that aligns with the modern woman's silhouette. Our commitment to quality and craftsmanship has never wavered. The inception of Iris was inspired by a gap in the Canadian fashion market, particularly for women seeking clothing that enhances their natural beauty while offering both style and comfort."
+  },
+
+  {
+    "id": 384,
+    "name": "Men Shoes",
+    "price": 65,
+    "category": "flat",
+    "type": "Men Shoes",
+    "image": [
+      "img/men/shoes/men-shoes (9).png",
+      "img/men/shoes/men-shoes (10).png",
+      "img/men/shoes/men-shoes (11).png",
+      "img/men/shoes/men-shoes (12).png"
+    ],
+    "description": "our brand has expanded to several boutique locations throughout the city, consistently delivering luxury clothing that aligns with the modern woman's silhouette. Our commitment to quality and craftsmanship has never wavered. The inception of Iris was inspired by a gap in the Canadian fashion market, particularly for women seeking clothing that enhances their natural beauty while offering both style and comfort."
+  },
+
+
+
+  {
+    "id": 385,
+    "name": "Gown",
+    "price": 60,
+    "category": "flat",
+    "type": "Gown",
+    "image": [
+      "img/women/gown/gown (5).png",
+      "img/women/gown/gown (6).png",
+      "img/women/gown/gown (7).png",
+      "img/women/gown/gown (8).png"
+    ],
+    "description": "our brand has expanded to several boutique locations throughout the city, consistently delivering luxury clothing that aligns with the modern woman's silhouette. Our commitment to quality and craftsmanship has never wavered. The inception of Iris was inspired by a gap in the Canadian fashion market, particularly for women seeking clothing that enhances their natural beauty while offering both style and comfort."
+  },
+
+  {
+    "id": 386,
+    "name": "Gown",
+    "price": 75,
+    "category": "flat",
+    "type": "Gown",
+    "image": [
+      "img/women/gown/gown (9).png",
+      "img/women/gown/gown (10).png",
+      "img/women/gown/gown (11).png",
+      "img/women/gown/gown (12).png"
+    ],
+    "description": "our brand has expanded to several boutique locations throughout the city, consistently delivering luxury clothing that aligns with the modern woman's silhouette. Our commitment to quality and craftsmanship has never wavered. The inception of Iris was inspired by a gap in the Canadian fashion market, particularly for women seeking clothing that enhances their natural beauty while offering both style and comfort."
+  },
+
+  {
+    "id": 387,
+    "name": "Gown",
+    "price": 75,
+    "category": "flat",
+    "type": "Gown",
+    "image": [
+      "img/women/gown/gown (13).png",
+      "img/women/gown/gown (14).png",
+      "img/women/gown/gown (15).png",
+      "img/women/gown/gown (16).png"
+    ],
+    "description": "our brand has expanded to several boutique locations throughout the city, consistently delivering luxury clothing that aligns with the modern woman's silhouette. Our commitment to quality and craftsmanship has never wavered. The inception of Iris was inspired by a gap in the Canadian fashion market, particularly for women seeking clothing that enhances their natural beauty while offering both style and comfort."
+  },
+
+  
+
+  {
+    "id": 388,
+    "name": "Shari",
+    "price": 60,
+    "category": "flat",
+    "type": "Shari",
+    "image": [
+      "img/women/topKaftanShari/shari13.jpg",
+      "img/women/topKaftanShari/shari14.jpg",
+      "img/women/topKaftanShari/shari15.jpg",
+      "img/women/topKaftanShari/shari16.jpg"
+    ],
+    "description": "our brand has expanded to several boutique locations throughout the city, consistently delivering luxury clothing that aligns with the modern woman's silhouette. Our commitment to quality and craftsmanship has never wavered. The inception of Iris was inspired by a gap in the Canadian fashion market, particularly for women seeking clothing that enhances their natural beauty while offering both style and comfort."
+  },
+
+  {
+    "id": 389,
+    "name": "Shari",
+    "price": 65,
+    "category": "flat",
+    "type": "Shari",
+    "image": [
+      "img/women/topKaftanShari/shari17.jpg",
+      "img/women/topKaftanShari/shari18.jpg",
+      "img/women/topKaftanShari/shari19.jpg",
+      "img/women/topKaftanShari/shari20.jpg"
+    ],
+    "description": "our brand has expanded to several boutique locations throughout the city, consistently delivering luxury clothing that aligns with the modern woman's silhouette. Our commitment to quality and craftsmanship has never wavered. The inception of Iris was inspired by a gap in the Canadian fashion market, particularly for women seeking clothing that enhances their natural beauty while offering both style and comfort."
+  },
+
+  {
+    "id": 390,
+    "name": "Shari",
+    "price": 70,
+    "category": "flat",
+    "type": "Shari",
+    "image": [
+      "img/women/topKaftanShari/shari21.jpg",
+      "img/women/topKaftanShari/shari22.jpg",
+      "img/women/topKaftanShari/shari23.jpg",
+      "img/women/topKaftanShari/shari24.jpg"
+    ],
+    "description": "our brand has expanded to several boutique locations throughout the city, consistently delivering luxury clothing that aligns with the modern woman's silhouette. Our commitment to quality and craftsmanship has never wavered. The inception of Iris was inspired by a gap in the Canadian fashion market, particularly for women seeking clothing that enhances their natural beauty while offering both style and comfort."
+  },
+
+
+  {
+    "id": 391,
+    "name": "Cuff Linen Abaya",
+    "price": 69,
+    "category": "newar",
+    "type": "newa",
+    "image": [
+      "img/NewArival/newarival (1).png",
+      "img/NewArival/newarival (2).png",
+      "img/NewArival/newarival (3).png",
+      "img/NewArival/newarival (4).png"
+    ],
+    "description": "our brand has expanded to several boutique locations throughout the city, consistently delivering luxury clothing that aligns with the modern woman's silhouette. Our commitment to quality and craftsmanship has never wavered. The inception of Iris was inspired by a gap in the Canadian fashion market, particularly for women seeking clothing that enhances their natural beauty while offering both style and comfort."
+  },
+
+  {
+    "id": 392,
+    "name": "Pleated Waist Palazzo",
+    "price": 42,
+    "category": "newar",
+    "type": "newa",
+    "image": [
+      "img/NewArival/newarival (5).png",
+      "img/NewArival/newarival (6).png",
+      "img/NewArival/newarival (7).png",
+      "img/NewArival/newarival (8).png"
+    ],
+    "description": "our brand has expanded to several boutique locations throughout the city, consistently delivering luxury clothing that aligns with the modern woman's silhouette. Our commitment to quality and craftsmanship has never wavered. The inception of Iris was inspired by a gap in the Canadian fashion market, particularly for women seeking clothing that enhances their natural beauty while offering both style and comfort."
+  },
+
+
+  {
+    "id": 393,
+    "name": "Crinkled Blazer",
+    "price": 62,
+    "category": "newar",
+    "type": "newa",
+    "image": [
+      "img/NewArival/newarival (9).png",
+      "img/NewArival/newarival (10).png",
+      "img/NewArival/newarival (11).png",
+      "img/NewArival/newarival (12).png"
+    ],
+    "description": "our brand has expanded to several boutique locations throughout the city, consistently delivering luxury clothing that aligns with the modern woman's silhouette. Our commitment to quality and craftsmanship has never wavered. The inception of Iris was inspired by a gap in the Canadian fashion market, particularly for women seeking clothing that enhances their natural beauty while offering both style and comfort."
+  },
+
+  {
+    "id": 394,
+    "name": "Crinkled Blazer",
+    "price": 75,
+    "category": "newar",
+    "type": "newa",
+    "image": [
+      "img/NewArival/newarival (13).png",
+      "img/NewArival/newarival (14).png",
+      "img/NewArival/newarival (15).png",
+      "img/NewArival/newarival (16).png"
+    ],
+    "description": "our brand has expanded to several boutique locations throughout the city, consistently delivering luxury clothing that aligns with the modern woman's silhouette. Our commitment to quality and craftsmanship has never wavered. The inception of Iris was inspired by a gap in the Canadian fashion market, particularly for women seeking clothing that enhances their natural beauty while offering both style and comfort."
+  },
+
+  {
+    "id": 395,
+    "name": "Maxi Abaya",
+    "price": 90,
+    "category": "newar",
+    "type": "newa",
+    "image": [
+      "img/NewArival/newarival (17).png",
+      "img/NewArival/newarival (18).png",
+      "img/NewArival/newarival (19).png",
+      "img/NewArival/newarival (20).png"
+    ],
+    "description": "our brand has expanded to several boutique locations throughout the city, consistently delivering luxury clothing that aligns with the modern woman's silhouette. Our commitment to quality and craftsmanship has never wavered. The inception of Iris was inspired by a gap in the Canadian fashion market, particularly for women seeking clothing that enhances their natural beauty while offering both style and comfort."
+  },
+
+  {
+    "id": 396,
+    "name": "Maxi Open Abaya",
+    "price": 95,
+    "category": "newar",
+    "type": "newa",
+    "image": [
+      "img/NewArival/newarival (21).png",
+      "img/NewArival/newarival (22).png",
+      "img/NewArival/newarival (23).png",
+      "img/NewArival/newarival (24).png"
+    ],
+    "description": "our brand has expanded to several boutique locations throughout the city, consistently delivering luxury clothing that aligns with the modern woman's silhouette. Our commitment to quality and craftsmanship has never wavered. The inception of Iris was inspired by a gap in the Canadian fashion market, particularly for women seeking clothing that enhances their natural beauty while offering both style and comfort."
+  },
+
+  {
+    "id": 397,
+    "name": "Maxi Abaya",
+    "price": 80,
+    "category": "newar",
+    "type": "newa",
+    "image": [
+      "img/NewArival/newarival (25).png",
+      "img/NewArival/newarival (26).png",
+      "img/NewArival/newarival (27).png",
+      "img/NewArival/newarival (28).png"
+    ],
+    "description": "our brand has expanded to several boutique locations throughout the city, consistently delivering luxury clothing that aligns with the modern woman's silhouette. Our commitment to quality and craftsmanship has never wavered. The inception of Iris was inspired by a gap in the Canadian fashion market, particularly for women seeking clothing that enhances their natural beauty while offering both style and comfort."
+  },
+
+
+
+  {
+    "id": 398,
+    "name": "Embroidered Quilted",
+    "price": 85,
+    "category": "newar",
+    "type": "newa",
+    "image": [
+      "img/NewArival/newarival (29).png",
+      "img/NewArival/newarival (30).png",
+      "img/NewArival/newarival (31).png",
+      "img/NewArival/newarival (32).png"
+    ],
+    "description": "our brand has expanded to several boutique locations throughout the city, consistently delivering luxury clothing that aligns with the modern woman's silhouette. Our commitment to quality and craftsmanship has never wavered. The inception of Iris was inspired by a gap in the Canadian fashion market, particularly for women seeking clothing that enhances their natural beauty while offering both style and comfort."
+  },
+
+  {
+    "id": 399,
+    "name": "Quilted Abaya",
+    "price": 75,
+    "category": "newar",
+    "type": "newa",
+    "image": [
+      "img/NewArival/newarival (3).png",
+      "img/NewArival/newarival (34).png",
+      "img/NewArival/newarival (35).png",
+      "img/NewArival/newarival (36).png"
+    ],
+    "description": "our brand has expanded to several boutique locations throughout the city, consistently delivering luxury clothing that aligns with the modern woman's silhouette. Our commitment to quality and craftsmanship has never wavered. The inception of Iris was inspired by a gap in the Canadian fashion market, particularly for women seeking clothing that enhances their natural beauty while offering both style and comfort."
+  },
+
+  {
+    "id": 400,
+    "name": "Hem Printed Dress",
+    "price": 82,
+    "category": "newar",
+    "type": "newa",
+    "image": [
+      "img/NewArival/newarival (37).png",
+      "img/NewArival/newarival (38).png",
+      "img/NewArival/newarival (39).png",
+      "img/NewArival/newarival (40).png"
+    ],
+    "description": "our brand has expanded to several boutique locations throughout the city, consistently delivering luxury clothing that aligns with the modern woman's silhouette. Our commitment to quality and craftsmanship has never wavered. The inception of Iris was inspired by a gap in the Canadian fashion market, particularly for women seeking clothing that enhances their natural beauty while offering both style and comfort."
+  },
+
+  
+
+  {
+    "id": 401,
+    "name": "Hem Printed Dress",
+    "price": 60,
+    "category": "newar",
+    "type": "newa",
+    "image": [
+      "img/NewArival/newarival (41).png",
+      "img/NewArival/newarival (42).png",
+      "img/NewArival/newarival (43).png",
+      "img/NewArival/newarival (44).png"
+    ],
+    "description": "our brand has expanded to several boutique locations throughout the city, consistently delivering luxury clothing that aligns with the modern woman's silhouette. Our commitment to quality and craftsmanship has never wavered. The inception of Iris was inspired by a gap in the Canadian fashion market, particularly for women seeking clothing that enhances their natural beauty while offering both style and comfort."
+  },
+
+  {
+    "id": 402,
+    "name": "Hem Printed Dress",
+    "price": 85,
+    "category": "newar",
+    "type": "newa",
+    "image": [
+      "img/NewArival/newarival (45).png",
+      "img/NewArival/newarival (46).png",
+      "img/NewArival/newarival (47).png",
+      "img/NewArival/newarival (48).png"
+    ],
+    "description": "our brand has expanded to several boutique locations throughout the city, consistently delivering luxury clothing that aligns with the modern woman's silhouette. Our commitment to quality and craftsmanship has never wavered. The inception of Iris was inspired by a gap in the Canadian fashion market, particularly for women seeking clothing that enhances their natural beauty while offering both style and comfort."
+  },
+
+  {
+    "id": 403,
+    "name": "Hem Printed Dress",
+    "price": 90,
+    "category": "newar",
+    "type": "newa",
+    "image": [
+      "img/NewArival/newarival (49).png",
+      "img/NewArival/newarival (50).png",
+      "img/NewArival/newarival (51).png",
+      "img/NewArival/newarival (52).png"
+    ],
+    "description": "our brand has expanded to several boutique locations throughout the city, consistently delivering luxury clothing that aligns with the modern woman's silhouette. Our commitment to quality and craftsmanship has never wavered. The inception of Iris was inspired by a gap in the Canadian fashion market, particularly for women seeking clothing that enhances their natural beauty while offering both style and comfort."
   }
+
 
 
 ]

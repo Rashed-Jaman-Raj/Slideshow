@@ -10,8 +10,7 @@
   align-items: stretch;
   gap: 1.5rem;
   text-align: center;
-  cursor: pointer;
-  
+  cursor: pointer; 
 }
 
 .productsList .item {
@@ -19,13 +18,28 @@
   border-radius: 6px;
   /* box-shadow: 0 0 10px lightgrey; */
   box-shadow: 0 6px 16px rgba(0, 0, 0, 0.2); 
+  overflow: hidden;
 }
+
+.productsList .item:hover {
+  transform: scale(1.05);
+  transition: transform 0.3s ease;
+}
+
  .item img {
   width: 100%;
   display: block;
   aspect-ratio: 2/2.3;
   border-top-left-radius: 6px;
   border-top-right-radius: 6px;
+  overflow: hidden;
+
+ }
+
+
+ .item img:hover {
+  transform: scale(1.05);
+  transition: transform 0.3s ease;
  }
 
  .item h3 {
@@ -54,8 +68,17 @@
   color: darkcyan;
  }
 
+  button.AddCart:hover {
+    background-color: green;
+    border-radius: 50px;
+    color: white;
+  }
+
 
 
  .price {
   color: darkslategrey;
  }
+
+
+ 
